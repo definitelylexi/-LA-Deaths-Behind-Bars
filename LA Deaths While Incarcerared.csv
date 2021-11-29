@@ -1,0 +1,814 @@
+Decedent Name,Date of Birth,Sex,Race,Age,Facility,Date Of Admission,Trial Status,Incident Location,Pre-existing Condition,Days Incarcerated,Date Of Death,Category of Death,Cause of Death,Cause of Death Description
+Thomas Verdin,11/21/1964,Male,White,52,Acadia Parish Jail,3/30/2017,Pretrial,Cell,Yes,3,4/2/2017,Medical Condition,Heart,Homicide- Heart Attack
+Jacilyn Thibodeaux,10/15/1985,Female,White,32,Acadia Parish Jail,11/29/2017,Pretrial,Segregation,No,0,11/29/2017,Suicide,Overdose/Intoxication,Multi substance intoxication
+Rocky T. Chaney,6/24/1981,Male,White,38,Acadia Parish Jail,8/2/2019,Pretrial,Segregation,No,18,8/20/2019,Suicide,Suicide,Suicide
+Misty Carvell,7/21/1984,Female,White,35,Acadia Parish Jail,9/30/2019,Pretrial,Segregation,No,2,10/2/2019,Suicide,Hanging,Strangulation; hanging
+Brian Myles,4/24/1968,Male,Black,45,Avoyelles Marksville Detention Center,3/7/2014,Probation Hold,Cell,No,1,3/8/2014,Medical Condition,Blood,hypertension
+George Montrell,12/16/1957,Male,Black,56,Avoyelles Marksville Detention Center,1/2/2014,Convicted,Cell,Yes,103,4/15/2014,Medical Condition,Heart & Lungs,cardiopulmonary arrest - congestive heart failure
+Joseph Redmond,5/26/1990,Male,Black,25,Avoyelles Marksville Detention Center,8/26/2015,Convicted,Medical Facility,No,31,9/26/2015,Drugs,Heart & Lungs,choked on food
+Willie Williams,8/26/1991,Male,Black,25,Avoyelles Marksville Detention Center,8/19/2016,Convicted,Unknown,Yes,67,10/25/2016,Medical Condition,Sepsis/Septic Shock,Multi-organ failure/encephalopathy
+Kelly Abshire,1/24/1962,Male,White,56,Avoyelles Marksville Detention Center,8/25/2014,Convicted,Medical Facility,Yes,1434,7/29/2018,Medical Condition,Sepsis/Septic Shock,"Multi-organ system failure-sepsis, shock"
+James Dixon,5/22/1957,Male,Black,61,Avoyelles Marksville Detention Center,2/20/2018,Convicted,Medical Facility,No,301,12/18/2018,Medical Condition,Brain & Sepsis/Septic Shock,"Acute massive intracerebral hemmorhage, brain stem herniation , septic shock"
+David Droddy,1/1/1987,Male,White,27,Beauregard Parish Jail,8/12/2013,Convicted,Cell,Yes,281,5/20/2014,Medical Condition,Illness,Acute illness/dehydration
+Matthew Makowsky,9/9/1991,Male,White,26,Bienville Parish Jail,11/12/2016,Pretrial,Medical Facility,No,398,12/15/2017,Drugs,Overdose/Intoxication,Contraband narcotics overdose
+Robert Martin,9/6/1990,Male,White,23,Bossier Parish Maximum Security Facility,2/25/2014,Pretrial,Cell,No,19,3/16/2014,Suicide,Hanging,Hanging
+Linda Thomas,11/7/1959,Female,Black,54,Bossier Parish Maximum Security Facility,5/5/2014,Pretrial,Cell,Yes,13,5/18/2014,Medical Condition,Heart & Sepsis/Septic Shock,cardiac/sepsis
+Collin Fletcher,4/30/1993,Male,White,24,Bossier Parish Maximum Security Facility,9/3/2017,Pretrial,Segregation,No,5,9/8/2017,Accident,Seizure,Accidental intoxication causing fall from seizure/ skull fracture
+Isaac Greer,1/10/1958,Male,White,58,Shreveport City Jail,12/14/2016,Pretrial,Segregation,Yes,2,12/16/2016,Medical Condition,Illness,Palliative care
+Robert C. Heinbach,6/17/1981,Male,White,30,Sulphur City Jail,2/16/2012,Pretrial,Temp Holding,No,0,2/16/2012,Suicide,Hanging,Hanging
+Jacob R. Naegele,3/13/1979,Male,White,38,Sulphur City Jail,7/17/2017,Pretrial,Cell,No,1,7/18/2017,Drugs,Overdose/Intoxication,Accidental intoxication Excessive amounts of narcotics and alcohol
+Tommy Reid,3/28/1976,Male,White,41,Concordia Parish Work Release Facility,5/10/2017,Convicted,Segregation,No,46,6/25/2017,Suicide,Hanging,Hanging
+Rene Manzanares,4/5/1965,Male,White,53,Concordia Parish Work Release Facility,5/16/2014,Convicted,Medical Facility,No,1458,5/13/2018,Medical Condition,Organ Failure,Multi organ failure
+Richard Fluker,7/16/1955,Male,Black,63,East Baton Rouge Parish Prison,11/19/2018,Pretrial,Medical Facility,Yes,123,3/22/2019,Medical Condition,Heart & Lungs & Cancer,cardiopulmonary arrest secondary to stage IV lung cancer.
+Timothy Douglas,5/16/1996,Male,Black,22,East Baton Rouge Parish Prison,4/17/2019,Pretrial,Medical Facility,Yes,8,4/25/2019,Medical Condition,Heart & Organ Failure,cardiogenic shock with multisystem organ failure
+Micheal Gains,1/26/1965,Male,Black,54,East Baton Rouge Parish Prison,4/13/2017,Pretrial,Medical Facility,Yes,666,2/8/2019,Medical Condition,Illlness,failure to thrive secondary to history CVA
+Ulysses Washington,10/26/1961,Male,Black,57,East Baton Rouge Parish Prison,2/17/2019,Pretrial,Medical Facility,No,9,2/26/2019,Medical Condition,Lung & Sepsis/Septic Shock,septic pneumonia
+George Merritte,10/31/1968,Male,Black,50,East Baton Rouge Work Release,5/31/2019,Convicted,Work,No,61,7/31/2019,Drugs,Overdose/Intoxication,Overdoes of a combination of Fentanyl and Heroin
+Demario Sterling,12/27/1986,Male,Black,31,Riverbend Detention Center,5/26/2018,Pretrial,Cell,Yes,35,6/30/2018,Violence,Assault,traumatic brain injury.
+Michael Collins,1/17/1976,Male,Black,42,East Baton Rouge Parish Prison,12/22/2017,Convicted,Medical Facility,No,185,6/25/2018,Drugs,Overdose/Intoxication,Fentanyl Intoxication w/ Hypertensive and Atherosclerosis
+Damien Richard,9/22/1978,Male,Black,40,East Baton Rouge Parish Prison,9/13/2018,Pretrial,Cell,Yes,12,9/25/2018,Medical Condition,Organ Failure,acute organ failure
+Leonard Green,12/19/1963,Male,Black,54,East Baton Rouge Parish Prison,7/18/2018,Parole Hold,Medical Facility,No,122,11/17/2018,Medical Condition,Organ Failure,acute organ failure
+Michael Toups,11/21/1956,Male,White,61,East Baton Rouge Parish Prison,7/7/2017,Pretrial,Medical Facility,Yes,198,1/21/2018,Medical Condition,Blood,Alzheimers Dementia- High Blood pressure
+Louis Fano,7/21/1989,Male,Hispanic,27,East Baton Rouge Parish Prison,10/31/2016,Pretrial,Segregation,No,97,2/5/2017,Suicide,Hanging,Suicide by Hanging
+Edward Jones,7/16/1955,Male,Black,61,East Baton Rouge Parish Prison,9/21/2016,Pretrial,Medical Facility,Yes,110,1/9/2017,Medical Condition,Organ Failure & Sepsis/Septic Shock,"sepsis, multi organ failure, acute pancreatitis"
+Ricky Whatley,5/17/1968,Male,White,49,East Baton Rouge Parish Prison,7/11/2017,Pretrial,Segregation,No,3,7/14/2017,Suicide,Hanging,Suicide by Hanging
+Calvin Hayward,5/29/1965,Male,Black,52,East Baton Rouge Parish Prison,8/28/2017,Pretrial,Cell,Yes,114,12/20/2017,Institution Redacted,Medical,redacted
+Joseph Howard,5/29/1965,Male,Black,52,East Baton Rouge Parish Prison,6/19/2017,Pretrial,Cell,Yes,49,8/7/2017,Institution Redacted,Medical,redacted
+Michael O'Neill,4/30/1970,Male,White,46,East Baton Rouge Work Release,2/16/2016,Convicted,Medical Facility,No,186,8/20/2016,Institution Redacted,Medical,redacted
+Frederick Green,12/30/1954,Male,Black,61,East Baton Rouge Parish Prison,1/13/2016,Pretrial,Medical Facility,No,228,8/28/2016,Violence,Assault,Neurotrama
+Tyrin Colbert,3/16/1998,Male,Black,17,East Baton Rouge Parish Prison,11/6/2015,Pretrial,Cell,No,104,2/18/2016,Violence,Assault,Homicide--Trauma Related to Assault.
+Samuel Sanchez,8/5/1952,Male,Hispanic,64,East Baton Rouge Parish Prison,12/16/2015,Pretrial,Medical Facility,No,254,8/26/2016,Institution Redacted,Medical,redacted
+Brian Ducree,12/9/1971,Male,Black,44,East Baton Rouge Parish Prison,5/5/2016,Pretrial,Unknown,No,10,5/15/2016,Violence,Assault,Injuries related to an assault
+Tyree Hammond,5/13/1969,Male,Black,47,East Baton Rouge Parish Prison,9/5/2016,Pretrial,Medical Facility,No,14,9/19/2016,Drugs,Heart & Drugs,Heart Attack due to Cocaine use.
+Timothy Nations,7/10/1970,Male,Black,46,East Baton Rouge Work Release,7/6/2016,Convicted,Medical Facility,Yes,75,9/19/2016,Institution Redacted,Medical,redacted
+Randall Toler,11/24/1993,Male,White,21,East Baton Rouge Parish Prison,4/18/2015,Pretrial,Medical Facility,No,2,4/20/2015,Institution Redacted,Medical,redacted
+Elbert Hale,11/11/1969,Male,Black,45,East Baton Rouge Parish Prison,4/27/2015,Pretrial,Cell,No,10,5/7/2015,Institution Redacted,Medical,redacted
+Lamar Johnson,10/18/1987,Male,Black,27,East Baton Rouge Parish Prison,5/26/2015,Pretrial,Cell,No,4,5/30/2015,Suicide,Hanging,Complication of Suicide by Hanging
+James Aguillard,4/17/1942,Male,White,72,East Baton Rouge Parish Prison,9/30/2014,Pretrial,Medical Facility,No,45,11/14/2014,Institution Redacted,Medical,partially redacted.
+Paul Cleveland,7/20/1942,Male,White,72,East Baton Rouge Parish Prison,9/20/2014,Pretrial,Segregation,No,53,11/12/2014,Institution Redacted,Medical,redacted
+Jeremy Hilliard,4/5/1991,Male,Black,23,East Baton Rouge Parish Prison,4/7/2014,Pretrial,Segregation,No,3,4/10/2014,Institution Redacted,Medical,redacted
+Antwoin Harden,1/27/1986,Male,Black,28,East Baton Rouge Parish Prison,7/11/2014,Pretrial,Segregation,No,16,7/27/2014,Institution Redacted,Medical,redacted
+Benjamin Berzas,9/29/1979,Male,White,35,Evangeline Parish Jail,11/5/2014,Pretrial,Cell,No,0,11/5/2014,Suicide,Overdose/Intoxication,overdose
+Roger Deville,6/17/1951,Male,White,63,Evangeline Parish Jail,7/22/2014,Pretrial,Cell,Yes,114,11/13/2014,Institution Redacted,Medical,redacted
+Nikita Thomas,10/19/1981,Male,White,33,Evangeline Parish Jail,7/11/2014,Pretrial,Cell,No,320,5/27/2015,Institution Redacted,Medical,redacted
+Brian Shaw,7/27/1975,Male,Black,40,City of Kenner Jail,10/24/2015,Pretrial,Cell,No,1,10/25/2015,Institution Redacted,Medical,previous medical condition
+Austin Boyles,5/12/1995,Male,Black,23,City of Kenner Jail,7/12/2018,Pretrial,Medical Facility,No,0,7/12/2018,Drugs,Lungs,"""Sudden Sniffing Death Syndrome"" from the inhalation of hydrocarbons"
+George Nix,1/1/1966,Male,White,48,Lafayette Parish Correctional Center,8/3/2014,Pretrial,Cell,No,52,9/24/2014,Suicide,Hanging,Hanging
+Chris Jefferson,1/1/1972,Male,Black,42,Lafayette Parish Correctional Center,9/24/2013,Parole Hold,Cell,No,246,5/28/2014,Institution Redacted,Medical,"""na"""
+Kreig Lutgring,1/1/1969,Male,White,46,Lafayette Parish Correctional Center,3/31/2015,Pretrial,Medical Facility,No,52,5/22/2015,Institution Redacted,Medical,"""na"""
+Kenneth Duhon,1/1/1951,Male,Black,64,Lafayette Parish Correctional Center,5/31/2015,Pretrial,Medical Facility,Yes,8,6/8/2015,Institution Redacted,Medical,"""na"""
+Kristopher Nelams,1/1/1991,Male,White,25,Lafayette Parish Correctional Center,5/19/2016,Probation Hold,Segregation,No,65,7/23/2016,Suicide,Hanging,Asphyxia due to ligature hanging
+Mendez Diaz,1/1/1962,Male,Hispanic,56,Lafayette Parish Correctional Center,5/10/2018,Pretrial,Segregation,No,90,8/8/2018,Suicide,Hanging,Hanging
+Ronald Walker,1/1/1974,Male,White,44,Lafayette Parish Correctional Center,6/15/2018,Pretrial,Temp Holding,No,1,6/16/2018,Suicide,Overdose/Intoxication,codeine toxicity with contribution of cardiovascular...(intent to commit suicide)
+Redacted,6/14/1951,Male,White,64,Livingston Parish Detention Center,9/22/2015,Pretrial,Medical Facility,Yes,176,3/16/2016,Institution Redacted,Medical,"""na"""
+Douglas Brown,1/1/1942,Male,Black,72,Morehouse Parish Jail Annex Facility,4/29/2014,Pretrial,Segregation,Yes,34,6/2/2014,Institution Redacted,Medical,"""na"""
+Ollie Brown,1/1/1962,Male,Black,53,Morehouse Parish Jail,1/24/2015,Pretrial,Segregation,Yes,313,12/3/2015,Institution Redacted,Medical,na
+Keith Atkins,1/1/1973,Male,White,42,Morehouse Parish Jail,2/17/2015,Pretrial,Courthouse,No,289,12/3/2015,Suicide,Gunshot,single gun shot to head
+Edwin Bataglia,1/1/1997,Male,Black,18,Morehouse Parish Jail,6/13/2015,Pretrial,Segregation,No,11,6/24/2015,Drugs,Overdose/Intoxication,accidental intoxication/seizure
+Raymond Davenport,4/8/1974,Male,Black,42,Morehouse Parish Detention Center,7/29/2016,Convicted,Transit,No,150,12/26/2016,Medical Condition,Illlness,end stage dementia- Alzheimers
+Joseph Besant,10/17/1977,Male,Black,36,Natchitoches Parish Detention Center,2/6/2014,Pretrial,Medical Facility,Yes,159,7/15/2014,Institution Redacted,Medical,"""na"""
+Anthony Demery,12/25/1988,Male,Black,25,Natchitoches Parish Detention Center,11/5/2013,Pretrial,Segregation,No,188,5/12/2014,Institution Redacted,Medical,"""na"""
+James Hoover,2/17/1965,Male,Black,52,Natchitoches Parish Detention Center,6/22/2017,Pretrial,Medical Facility,Yes,1,6/23/2017,Institution Redacted,Medical,Suspected medical complication
+Ricky Lofton,8/27/1957,Male,Black,60,Natchitoches Parish Detention Center,9/7/2016,Convicted,Medical Facility,Yes,371,9/13/2017,Medical Condition,Heart,Heart disease
+Willie Lee,12/21/1973,Male,Black,40,Orleans Parish Prison & TDC,3/15/2014,Pretrial,Cell,No,8,3/23/2014,Medical Condition,Heart & Lungs,Natural-hypertensive atherosclerotic cardiovascular-COPD
+Ryan Miller,10/13/1990,Male,Black,25,Orleans Parish Prison & TDC,5/9/2014,Pretrial,Segregation,No,684,3/23/2016,Suicide,Hanging,Strangulation by hanging
+Jaquin Thomas,1/24/2001,Male,Black,15,Orleans Parish Prison & TDC,7/28/2016,Pretrial,Cell,No,81,10/17/2016,Suicide,Hanging,hanging
+Cleveland Tumblin,9/3/1954,Male,Black,61,Orleans Parish Prison & TDC,2/29/2016,Pretrial,Cell,No,7,3/7/2016,Suicide,Hanging,hanging
+Narada Mealey,6/26/1985,Male,Black,32,Orleans Parish Prison & TDC,10/27/2017,Pretrial,Medical Facility,Yes,6,11/2/2017,Medical Condition,Seizure,seizure
+Evan Sullivan,5/18/1990,Male,White,27,Orleans Parish Prison & TDC,9/19/2017,Convicted,Cell,No,47,11/5/2017,Drugs,Overdose/Intoxication,Heroin overdose
+Jason Pierce,12/11/1976,Male,Black,40,Orleans Parish Prison & TDC,7/10/2017,Pretrial,Medical Facility,Yes,2,7/12/2017,Medical Condition,Blood,Sickle cell complications
+Dennis Edwards,1/11/1976,Male,Black,41,Orleans Parish Prison & TDC,12/13/2017,Pretrial,Medical Facility,No,2,12/15/2017,Drugs,Overdose/Intoxication,Heroin Overdose
+Jamaine Johnson,5/27/1993,Male,Black,23,Orleans Parish Prison & TDC,9/21/2016,Pretrial,Cell,No,241,5/20/2017,Suicide,Hanging,used bedding as ligature affixed to bar on cell's wall
+Colby Crawford,1/14/1994,Male,Black,23,Orleans Parish Prison & TDC,5/3/2016,Pretrial,Cell,No,295,2/22/2017,Drugs,Overdose/Intoxication,cocaine overdose
+Edward Patterson,10/2/1990,Male,Black,28,Orleans Parish Prison & TDC,11/20/2017,Pretrial,Medical Facility,No,378,12/3/2018,Drugs,Overdose/Intoxication,Overdose on Fentanyl
+Kentrell Hurst,7/21/1981,Female,Black,36,Orleans Parish Prison & TDC,5/25/2018,Pretrial,Cell,Yes,2,5/27/2018,Medical Condition,Heart,"Heart problems, heart attack"
+Charles Allen,,Male,Black,,Orleans Parish Prison & TDC,,Pretrial,Unknown,No,,,Medical Condition,Brain,brain aneurysm
+Calvin Thomas,,Male,Black,,Orleans Parish Prison & TDC,,Pretrial,Unknown,Yes,,,Medical Condition,Heart,Enlarged heart
+Richard Crawford,,Male,White,,City of West Monroe Jail,,Pretrial,Medical Facility,No,,,Drugs,Overdose/Intoxication,Died of anoxic encephalopathy complicating methamphetamine intoxication.
+Sean D Smith,10/29/1990,Male,Black,23,"Rapides Parish Detention Center I, II, III",9/26/2014,Pretrial,Segregation,No,8,10/4/2014,Drugs,Overdose/Intoxication,ingested drugs prior to arrest
+Alvin Thompson Sr,12/20/1964,Male,Black,51,"Rapides Parish Detention Center I, II, III",12/19/2014,Pretrial,Medical Facility,Yes,377,12/31/2015,Medical Condition,Heart,Medical Illness-heart condition
+Corey Lafleur,12/3/1978,Male,Black,37,"Rapides Parish Detention Center I, II, III",10/14/2016,Pretrial,Cell,No,3,10/17/2016,Medical Condition,Seizure,Illness - possible seizure
+Larry Jenkins,1/18/1979,Male,Black,38,"Rapides Parish Detention Center I, II, III",5/5/2014,Convicted,Cell,No,1062,4/1/2017,Medical Condition,Brain,Hemorrhagic cerebral infarcts- Stroke
+Rachel Smith,8/23/1957,Female,Black,59,"Rapides Parish Detention Center I, II, III",7/28/2017,Pretrial,Temp Holding,No,1,7/29/2017,Violence,Assault,Choked by another female offender
+Jasmine Anderson,3/28/1995,Female,White,24,"Rapides Parish Detention Center I, II, III",7/23/2019,Pretrial,Segregation,No,4,7/27/2019,Suicide,Hanging,asphyxia secondary to hanging
+Patrick J. Strickland,,Male,White,,Sabine Parish Correctional Division,,Convicted,Cell,No,,,Suicide,Hanging,asphyxia secondary to hanging
+Danny D. Weber,10/9/1963,Male,White,50,Sabine Parish Correctional Division,3/24/2014,Pretrial,Cell,No,42,5/5/2014,Suicide,Hanging,asphyxiation by hanging
+Isaac M. Casson,5/3/1972,Male,Black,44,Sabine Parish Correctional Division,4/25/2016,Pretrial,Medical Facility,Yes,221,12/2/2016,Medical Condition,Lungs & Kidney/Liver,Acute Kidney Disease and Respiratory Failure
+Shawn M. Jaccuzzo,2/12/1971,Male,White,43,St. Charles Parish Nelson Coleman Correctional Center,7/2/2014,Pretrial,Medical Facility,Yes,108,10/18/2014,Medical Condition,Heart,Cardiogenic Shock
+Matthew Pere,,Male,White,,St. Charles Parish Nelson Coleman Correctional Center,,Pretrial,Segregation,No,,,Suicide,Hanging,hanging
+Marco D. Obregon,5/24/1960,Male,Hispanic,55,St. Charles Parish Nelson Coleman Correctional Center,11/13/2015,Pretrial,Medical Facility,Yes,104,2/25/2016,Medical Condition,AIDS,AIDS
+"Joseph ""Roland"" Brown",,Male,Black,,St. Landry Parish Jail,,Pretrial,Cell,Yes,,,Institution Redacted,Natural Causes,Natural Causes
+Michael Nelson,6/6/1957,Male,Black,58,St. Tammany Parish Jail,8/7/2006,Convicted,Medical Facility,No,3305,8/25/2015,Institution Redacted,Illness,Illness - Redacted
+George Guerra,11/27/1947,Male,White,67,St. Tammany Parish Jail,9/30/2014,Pretrial,Medical Facility,Yes,333,8/29/2015,Medical Condition,Lungs,First complaint of trouble breathing was minutes prior to emergency event
+Johnny Sanchez,6/19/1963,Male,Hispanic,53,St. Tammany Parish Jail,12/19/2016,Convicted,Medical Facility,Yes,57,2/14/2017,Medical Condition,Blood,Harden had a history of blood clots but was refusing medication@ this time period
+Cherie Harrison,2/3/1984,Female,White,33,St. Tammany Parish Jail,10/3/2017,Convicted,Medical Facility,Yes,1,10/4/2017,Medical Condition,Seizure,seizure medical condition
+James Rollins,10/16/1969,Male,Black,48,St. Tammany Parish Jail,8/21/2017,Convicted,Medical Facility,No,144,1/12/2018,Drugs,Seizure & Withdrawl,seizure--possible heroin/cocaine withdrawals
+Donald D. Chauvin Jr.,9/15/1971,Male,White,44,Terrebonne Parish Criminal Justice Complex,6/28/2016,Pretrial,Cell,No,5,7/3/2016,Suicide,Hanging,Hanging
+Jesus Hinojosa,12/22/1963,Male,Hispanic,53,Terrebonne Parish Criminal Justice Complex,11/29/2016,Pretrial,Medical Facility,No,91,2/28/2017,Medical Condition,Lungs,"idiopathic hypoglycemia, COPD, hypertensive atheroscicrotic cardiovascular disease"
+Don Harrington,8/18/1973,Male,White,42,Vermilion Parish Law Enforcement Center,6/19/2015,Pretrial,Medical Facility,Yes,142,11/8/2015,Medical Condition,Heart,myocardial abscess with partial aortic outflow obstruction
+Roy Edward Marshall,8/25/1977,Male,White,39,Vernon Parish Correctional Facility,9/7/2016,Convicted,Medical Facility,No,132,1/17/2017,Medical Condition,Diabetes,complications from diabetes
+Gregory Rambach,1/4/1974,Male,White,41,Bogalusa City Jail,7/6/2015,Pretrial,Cell,No,3,7/9/2015,Medical Condition,Heart,congestive heart failure
+Timothy B. Barrett,4/24/1978,Male,White,37,Washington Parish Jail,2/10/2015,Pretrial,Cell,No,84,5/5/2015,Suicide,Hanging,Hanging
+Robert J. Lester,9/16/1968,Male,White,48,Washington Parish Jail,12/17/2016,Pretrial,Medical Facility,Yes,182,6/17/2017,Medical Condition,Heart,cardiac arrest
+Timothy Diaville,11/17/1974,Male,White,41,Winn Correctional Center,1/19/2016,Convicted,Cell,No,204,8/10/2016,Drugs,Heart & Drugs,"Possible Cardiac Arrest, influence of illegal drugs"
+Redacted,8/15/1969,Male,Black,47,Livingston Parish Detention Center,11/9/2016,Pretrial,Medical Facility,Yes,121,3/10/2017,Medical Condition,Heart,Heart Condition
+David Lytle,8/22/1944,Male,White,72,Caddo Parish Correctional Center,8/23/2016,Pretrial,Unknown,Yes,75,11/6/2016,Medical Condition,Heart,Heart attack
+Kevin Weldon,8/2/1960,Male,White,57,Caddo Parish Correctional Center,7/9/2018,Convicted,Unknown,Yes,1,7/10/2018,Medical Condition,Heart,Hemorrhagic Stroke
+Marilyn Angle,8/15/1958,Female,White,60,Caddo Parish Correctional Center,12/14/2018,Pretrial,Unknown,Yes,13,12/27/2018,Medical Condition,Heart,fatal cardiac dysrhythmia
+James W. Carey,,Male,White,,Calcasieu Parish Sheriff's Office Fleet Maintenance Facility,5/7/2013,Convicted,Work,Yes,358,4/30/2014,Medical Condition,Heart,"Diabetic ketoacidosis, Hypertensive/atherosclerotic cardiovascular disease"
+Arnold S. Perry,,Male,White,,Calcasieu Parish Correctional Center,7/17/2013,Pretrial,Cell,Yes,824,10/19/2015,Medical Condition,Heart,Hypertensive atherosclerotic cardiovascular disease
+Kenneth W. LeBleu,,Male,White,,Calcasieu Parish Correctional Center,8/10/2018,Pretrial,Segregation,No,25,9/4/2018,Medical Condition,Stomach/Intestine,perforated Gastric Ulcer
+Blake A. Russell,,Male,White,,Calcasieu Sheriff's Prison,7/24/2017,Pretrial,Cell,No,332,6/21/2018,Suicide,Hanging,"Suicide, Self-inflicted Hanging"
+Fredrick Brumfield,2/8/1973,Male,Black,44,Franklin Parish Detention Center,9/7/2016,Pretrial,Medical Facility,No,478,12/29/2017,Medical Condition,Heart,Heart Condition
+William Menyweather,,Male,Black,,Ouachita Correctional Center,1/14/2014,Pretrial,Temp Holding,No,0,1/14/2014,Violence,Assault,"struggle, exertion, and restraint with extro-muscular disruption device application"
+James Isreal,8/27/1979,Male,Black,36,Ouachita Correctional Center,11/19/2015,Convicted,Cell,No,53,1/11/2016,Accident,Self,accidental injury to self (head)
+Tommy Spires,,Male,White,,Ouachita Correctional Center,11/18/2016,Pretrial,Segregation,No,0,11/18/2016,Drugs,Overdose/Intoxication,methamphetamine overdose.
+Scott Green,,Male,White,,Ouachita Correctional Center,5/10/2017,Pretrial,Medical Facility,Yes,0,5/10/2017,Drugs,Overdose/Intoxication,Overdose
+Willie Moore,,Male,Black,,Ouachita Correctional Center,9/26/2017,Pretrial,Segregation,Yes,148,2/21/2018,Medical Condition,Natural Causes,Natural Causes - secondary cardia related issues
+Jonathan Miller,1/23/1971,Male,White,47,Ouachita Correctional Center,3/17/2016,Convicted,Work,No,746,4/2/2018,Accident,Drowning,drowning with chest contusions
+Clifford Jackson,,Male,Black,,Ouachita Correctional Center,3/26/2018,Pretrial,Medical Facility,Yes,394,4/24/2019,Medical Condition,Heart,Heart condition
+Joshua Dolan Addington,,Male,Unknown,,Webster Correctional Facility (Bayou Dorcheat Correctional Facility),,Convicted,Unknown,No,,,Medical Condition,Blood,sickle cell
+Alice Galintine,,Female,Black,,Ouachita Correctional Center,6/7/2019,Pretrial,Cell,Yes,62,8/8/2019,Medical Condition,Cancer,cancer
+Charles George,1/17/1952,Male,White,66,Louisiana State Penitentiary (Angola Prison),3/22/2004,Convicted,Cell,No,5402,1/5/2019,Medical Condition,Stomach/Intestine,Ischemic Enteritis Due to Effects of Acute Methane
+Micheal Cain,8/23/1964,Male,Black,51,Raymond Laborde Correctional Center - DOC,5/12/1997,Convicted,Cell,No,6755,11/9/2015,Drugs,Lungs,Respitory failure secondary to polysubstance
+Calvin Ware,12/1/1943,Male,White,72,Raymond Laborde Correctional Center - DOC,12/9/2004,Convicted,Cell,No,4026,12/18/2015,Medical Condition,Stomach/Intestine,small bowel volvulus secondary to fibrous
+Charles Nelson,10/26/1959,Male,Black,55,Allen Correctional Center,1/13/2014,Convicted,Cell,No,543,7/10/2015,Medical Condition,AIDS,Pernicious Anemia & Pneumonia AIDS
+Alfred Shepard,1/13/1953,Male,White,62,Allen Correctional Center,10/9/1996,Convicted,Cell,No,6848,7/10/2015,Accident,Self,Accidental injury to self as a result of fall.
+William Thurman,10/4/1966,Male,White,48,Allen Correctional Center,1/20/2004,Convicted,Cell,No,4261,9/20/2015,Medical Condition,Cancer,Metastatic Colorectal Cancer
+Russell Jones,7/8/1963,Male,Black,51,Winn Correctional Center,1/4/2015,Convicted,Cell,Yes,0,1/4/2015,Medical Condition,Lungs,pulmonary embolism
+Victor Fontenot,2/2/1951,Male,White,64,Winn Correctional Center,10/18/2007,Convicted,Transit,Yes,2829,7/17/2015,Medical Condition,Cancer,metastatic bladder cancer
+Clint Tremelon,8/14/1960,Male,White,54,Louisiana State Penitentiary (Angola Prison),6/13/2013,Convicted,Medical Facility,Yes,567,1/1/2015,Medical Condition,Heart,coronary artery disease
+Micheal Marsh,7/16/1977,Male,White,37,Louisiana State Penitentiary (Angola Prison),7/30/1996,Convicted,Medical Facility,Yes,6741,1/13/2015,Medical Condition,Heart,Acute myocardial infarction complication by diabetes
+Bryant Massey,1/19/1961,Male,Black,53,Louisiana State Penitentiary (Angola Prison),11/14/1995,Convicted,Medical Facility,Yes,7002,1/15/2015,Medical Condition,Lungs,pulmonary thromboembolism due to deep vein Pulmonary embolism
+Leslie Ray,12/2/1950,Male,White,64,Louisiana State Penitentiary (Angola Prison),5/1/1997,Convicted,Medical Facility,Yes,6478,1/25/2015,Medical Condition,Heart,Heart Problems
+Giles Beauchamp,8/13/1933,Male,White,81,Louisiana State Penitentiary (Angola Prison),2/27/1989,Convicted,Medical Facility,Yes,9476,2/7/2015,Medical Condition,Heart,Heart attack
+John Frith,11/17/1960,Male,White,54,Louisiana State Penitentiary (Angola Prison),12/19/1985,Convicted,Medical Facility,Yes,10644,2/9/2015,Institution Redacted,Illness,illness
+David Honore,1/24/1971,Male,Black,44,Louisiana State Penitentiary (Angola Prison),8/14/2001,Convicted,Medical Facility,No,4942,2/24/2015,Suicide,Hanging,Asphyxia due to hanging
+Jesse Tate,3/31/1955,Male,Black,59,Louisiana State Penitentiary (Angola Prison),4/6/1990,Convicted,Medical Facility,Yes,9092,2/26/2015,Medical Condition,Stomach/Intestine,perforated intestine
+Rothern Hinton,8/24/1959,Male,White,55,Louisiana State Penitentiary (Angola Prison),5/18/1989,Convicted,Medical Facility,Yes,9416,2/27/2015,Medical Condition,Cancer,Metastatic Cancer to Brain
+Jesse Washington,7/29/1948,Male,Black,66,Louisiana State Penitentiary (Angola Prison),11/28/1973,Convicted,Medical Facility,Yes,15086,3/19/2015,Medical Condition,Heart,heart failure
+Jimmy Maricle,11/9/1958,Male,White,56,Louisiana State Penitentiary (Angola Prison),10/1/1980,Convicted,Cell,Yes,12589,3/21/2015,Medical Condition,Heart,Heart attack
+Paul Billiot,1/20/1940,Male,White,75,Louisiana State Penitentiary (Angola Prison),3/20/1970,Convicted,Medical Facility,No,16450,4/3/2015,Medical Condition,Heart,Heart attack
+Norvel Reynolds,1/20/1940,Male,Black,75,Louisiana State Penitentiary (Angola Prison),1/21/1998,Convicted,Medical Facility,Yes,6297,4/19/2015,Medical Condition,Heart,Hypertensive cardiovascular disease
+Russell Alexander,9/2/1941,Male,Black,73,Louisiana State Penitentiary (Angola Prison),5/16/1968,Convicted,Medical Facility,Yes,17154,5/4/2015,Medical Condition,Heart,Heart Condition
+George Brooks,4/30/1942,Male,White,73,Louisiana State Penitentiary (Angola Prison),10/17/2011,Convicted,Medical Facility,Yes,1306,5/15/2015,Medical Condition,Heart,Natural Death (cardiopathy Heart Condition)
+Gilbert Disotell,11/19/1947,Male,White,67,Louisiana State Penitentiary (Angola Prison),9/26/2011,Convicted,Medical Facility,Yes,1328,5/16/2015,Medical Condition,Natural Causes,Manner of Death was Natural.
+Nolan James,9/1/1944,Male,Black,70,Louisiana State Penitentiary (Angola Prison),11/14/1983,Convicted,Medical Facility,Yes,11540,6/19/2015,Institution Redacted,Natural Causes,"unknown, described as ""natural"""
+Benjamin Bell,1/9/1939,Male,Black,76,Louisiana State Penitentiary (Angola Prison),3/15/1984,Convicted,Medical Facility,Yes,11420,6/21/2015,Medical Condition,Brain,peritonitis incarcerated hernia. diagnosed with Schizophrenia
+Thomas Pinkerton,7/29/1951,Male,White,63,Louisiana State Penitentiary (Angola Prison),7/25/2000,Convicted,Medical Facility,Yes,5464,7/11/2015,Medical Condition,Lungs,"acute respiratory failure, pulmonary STN"
+Dedrin Cyprian,4/28/1983,Male,Black,32,Louisiana State Penitentiary (Angola Prison),10/31/2011,Convicted,Medical Facility,Yes,1349,7/11/2015,Medical Condition,Diabetes,Type I diabetes
+Arthur Ford,8/24/1954,Male,Black,60,Louisiana State Penitentiary (Angola Prison),5/22/1987,Convicted,Medical Facility,Yes,10279,7/13/2015,Medical Condition,Heart,Dilated Cardiomyopathy due to morbid obesity
+Marcus Anderson,3/15/1978,Male,Black,37,Louisiana State Penitentiary (Angola Prison),8/4/2010,Convicted,Transit,Yes,1813,7/22/2015,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Ray Behovde,6/27/1945,Male,White,70,Louisiana State Penitentiary (Angola Prison),6/29/1979,Convicted,Medical Facility,Yes,13164,7/14/2015,Medical Condition,Lungs,Acute respiratory failure
+Vohries Theriot,6/3/1920,Male,White,95,Louisiana State Penitentiary (Angola Prison),8/15/2006,Convicted,Medical Facility,Yes,3265,7/24/2015,Medical Condition,Cancer,Cancer
+Miguel Velez,6/7/1949,Male,White,66,Louisiana State Penitentiary (Angola Prison),5/21/1987,Convicted,Medical Facility,Yes,10323,8/25/2015,Medical Condition,Heart,Cardiac arrest
+Harold Vincent,9/8/1949,Male,White,69,Louisiana State Penitentiary (Angola Prison),4/4/1972,Convicted,Unknown,No,17115,2/12/2019,Medical Condition,AIDS,AIDS Death
+Joseph McKiney,2/7/1955,Male,White,64,Louisiana State Penitentiary (Angola Prison),5/16/1995,Convicted,Medical Facility,No,8676,2/15/2019,Medical Condition,Lungs & Kidney/Liver,"Ending stage liver disease, respiratory failure"
+Darrell Aucoin,12/24/1957,Male,White,61,Louisiana State Penitentiary (Angola Prison),3/30/1993,Convicted,Unknown,No,9460,2/22/2019,Medical Condition,Heart,Heart attack
+Mauricio Cumbrera,9/22/1960,Male,White,58,Louisiana State Penitentiary (Angola Prison),10/7/2013,Convicted,Unknown,No,1977,3/7/2019,Medical Condition,Kidney/Liver,Hepatic Renal Syndrome and Hepatitis C with cirrhosis.
+Earnest Murray,11/16/1944,Male,White,74,Louisiana State Penitentiary (Angola Prison),2/22/1999,Convicted,Unknown,No,7335,3/24/2019,Institution Redacted,Natural Causes,Natural Unexpected/Acute Event
+Farrell Sampier,11/7/1967,Male,Black,51,Louisiana State Penitentiary (Angola Prison),5/7/2013,Convicted,Unknown,Yes,2148,3/25/2019,Medical Condition,Heart & Cancer,"had Pacreatic Cancer, & died of Cardiac Arrest."
+Jason Davis,7/4/1961,Male,Black,57,Louisiana State Penitentiary (Angola Prison),3/5/1999,Convicted,Medical Facility,No,7331,3/31/2019,Medical Condition,Lungs,Chronic Illness/Respiratory Failure
+Louis Stevens,6/3/1961,Male,Black,57,Louisiana State Penitentiary (Angola Prison),12/1/1987,Convicted,Medical Facility,No,11457,4/14/2019,Medical Condition,Heart & Lungs,Cardiopulmonary arrest with a history orf CHF and COPD
+Frank Walagamotte,7/4/1954,Male,White,64,Louisiana State Penitentiary (Angola Prison),6/10/1974,Convicted,Medical Facility,No,16384,4/19/2019,Medical Condition,Brain,"Stroke, Intracerebral hemorrhage"
+Robert Ducote,8/7/1951,Male,White,67,Louisiana State Penitentiary (Angola Prison),8/11/1992,Convicted,Medical Facility,No,9753,4/25/2019,Medical Condition,Cancer,Respiratory Failure Secondary to End Lung Cancer
+Earlie Mattox,9/12/1947,Male,Black,71,Louisiana State Penitentiary (Angola Prison),12/22/1998,Convicted,Medical Facility,Yes,7432,4/28/2019,Medical Condition,Heart,Ischemic Heart Disease due to Coronary Occlusion
+William Hill,2/24/1950,Male,Black,69,Louisiana State Penitentiary (Angola Prison),11/20/1975,Convicted,Medical Facility,No,15875,5/8/2019,Medical Condition,Heart,Non-ischemic cardiomyopathy (Cardiac arrest)
+Clinton Forest,6/19/1953,Male,Black,65,Louisiana State Penitentiary (Angola Prison),12/20/1994,Convicted,Medical Facility,No,8906,5/9/2019,Medical Condition,Heart,Coronary Artery Disease
+Darold Nunnery,2/1/1954,Male,Black,65,Louisiana State Penitentiary (Angola Prison),6/22/1987,Convicted,Transit,No,11651,5/16/2019,Suicide,Heart & Lungs,cardiopulmonary arrest - exsanguination
+Gerald Barnes,10/16/1937,Male,White,81,Louisiana State Penitentiary (Angola Prison),9/8/2009,Convicted,Medical Facility,No,3544,5/23/2019,Medical Condition,Kidney/Liver,Liver Failure
+John Ballard,11/9/1962,Male,White,56,Louisiana State Penitentiary (Angola Prison),12/10/2009,Convicted,Medical Facility,No,3462,6/3/2019,Medical Condition,AIDS,AIDS
+Robert Billiot,6/14/1971,Male,White,47,Louisiana State Penitentiary (Angola Prison),1/3/2005,Convicted,Cell,No,5267,6/6/2019,Drugs,Overdose/Intoxication,accidental drug intoxication
+Kendrick Williams,2/23/1980,Male,Black,39,Louisiana State Penitentiary (Angola Prison),3/8/2010,Convicted,Cell,No,3389,6/18/2019,Medical Condition,Heart,Ischemic Heart Disease
+Peter Overton,7/1/1950,Male,Black,68,Louisiana State Penitentiary (Angola Prison),4/17/1989,Convicted,Medical Facility,No,11025,6/24/2019,Medical Condition,Heart,Right Atrial Appendage Thrombuswith organization
+Christopher Moss,9/12/1980,Male,White,39,Louisiana State Penitentiary (Angola Prison),12/23/2003,Convicted,Medical Facility,No,5742,9/12/2019,Medical Condition,Heart & Lungs,Cardiopulmonary arrest
+Alvin Smith,12/19/1940,Male,White,78,Louisiana State Penitentiary (Angola Prison),10/6/1986,Convicted,Medical Facility,Yes,11960,7/5/2019,Medical Condition,Heart & Lungs,Cardiopulmonary arrest.
+Johnny Fuselier,9/27/1970,Male,White,48,Louisiana State Penitentiary (Angola Prison),4/16/2003,Convicted,Cell,No,5922,7/3/2019,Drugs,Overdose/Intoxication,ingested ibuprofen
+Leon Barnes,8/3/1950,Male,Black,68,Louisiana State Penitentiary (Angola Prison),4/16/1991,Convicted,Medical Facility,Yes,10321,7/19/2019,Medical Condition,Heart,Heart attack
+Daniel Lucas,11/17/1964,Male,White,54,Louisiana State Penitentiary (Angola Prison),11/30/1992,Convicted,Medical Facility,No,9728,7/20/2019,Medical Condition,Cancer,Stave IV colon cancer metastis
+Winfred Bassett,11/2/1960,Male,Black,58,Louisiana State Penitentiary (Angola Prison),11/19/1991,Convicted,Medical Facility,No,10124,8/8/2019,Medical Condition,AIDS,AIDS
+Anthony Smith,6/15/1963,Male,Black,55,B.B. Rayburn Correctional Center - DOC,12/16/2013,Convicted,Medical Facility,Yes,1910,3/10/2019,Medical Condition,Heart & Lungs,Cardiopulmonary arrest
+Eric Johnson,8/21/1967,Male,Black,51,Raymond Laborde Correctional Center - DOC,9/8/2015,Convicted,Medical Facility,No,1259,2/18/2019,Medical Condition,Cancer,Cardiac Arrest due to other complications of chronic neuro-endocrine cancer
+Willie Foley,2/4/1965,Male,Black,53,Elayn Hunt Correctional Center - DOC,12/7/1981,Convicted,Cell,No,13552,1/14/2019,Medical Condition,Lungs,Chronic illness/respiratory failure
+Walter Wren,2/14/1940,Male,Black,79,Dixon Correctional Institute - DOC,8/7/1978,Convicted,Medical Facility,No,14812,2/25/2019,Medical Condition,Lungs,Respiratory failure
+Lefty Valverde,1/31/1950,Male,White,69,Elayn Hunt Correctional Center - DOC,6/6/2017,Convicted,Medical Facility,Yes,691,4/28/2019,Medical Condition,Lungs,Respiratory failure secondary to lymphoma
+Arthur Funchess,2/13/1962,Male,Black,57,Elayn Hunt Correctional Center - DOC,7/18/1979,Convicted,Medical Facility,Yes,14565,6/3/2019,Medical Condition,Kidney/Liver,Liver Disease
+Dane Peake,4/26/1964,Male,White,55,Elayn Hunt Correctional Center - DOC,11/29/2017,Convicted,Medical Facility,Yes,539,5/22/2019,Medical Condition,Heart & Lungs,Cardiopulmonary arrest
+Joseph Flanagan,7/19/1954,Male,Black,64,Elayn Hunt Correctional Center - DOC,11/29/2017,Convicted,Medical Facility,Yes,429,2/1/2019,Medical Condition,Heart,Cardiac Arrest
+Willie Harmanson,3/4/1967,Male,Black,52,Elayn Hunt Correctional Center - DOC,4/12/2019,Convicted,Medical Facility,Yes,130,8/20/2019,Medical Condition,Heart,cardiac arrest
+Gregory Taylor,6/19/1968,Male,Black,51,David Wade Correctional Center - DOC,7/2/2008,Convicted,Transit,No,4072,8/26/2019,Accident,Self,"injury to self, blunt force injury to head"
+Alvin Gillespie,6/7/1963,Male,Black,55,Elayn Hunt Correctional Center - DOC,10/25/2016,Convicted,Medical Facility,No,875,3/19/2019,Medical Condition,Lungs,Severe COPD
+Daniel Mosley,8/17/1972,Male,White,46,Elayn Hunt Correctional Center - DOC,3/7/2019,Convicted,Medical Facility,Yes,159,8/13/2019,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Larry Moody,5/26/1964,Male,Black,55,David Wade Correctional Center - DOC,4/27/1990,Convicted,Medical Facility,No,10661,7/5/2019,Medical Condition,Heart,cardiac arrest
+Cornell Henry,12/28/1965,Male,Black,53,Elayn Hunt Correctional Center - DOC,6/13/2016,Convicted,Medical Facility,Yes,1114,7/2/2019,Medical Condition,Heart,cardiac arrest
+Floyd Berry,6/12/1947,Male,Black,71,Elayn Hunt Correctional Center - DOC,12/23/2003,Convicted,Medical Facility,No,5624,5/17/2019,Medical Condition,Cancer,Cancer
+Leonard Craft,5/24/1963,Male,Black,55,David Wade Correctional Center - DOC,12/3/2015,Convicted,Cell,No,1251,5/7/2019,Medical Condition,Heart,Cardiac Arrest
+Thomas Rising,2/4/1949,Male,White,70,Elayn Hunt Correctional Center - DOC,3/5/1991,Convicted,Medical Facility,Yes,10276,4/23/2019,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Reginald Houston,10/1/1962,Male,Black,56,Elayn Hunt Correctional Center - DOC,2/13/2008,Convicted,Medical Facility,No,4191,8/5/2019,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Brenda Jacobs,9/24/1953,Female,Black,65,Lousiana Correctional Institute for Women - DOC,7/14/2017,Convicted,Medical Facility,No,621,3/27/2019,Medical Condition,Lungs,Chronic obstructive pulmonary exacerbation
+Darrien Brown,7/22/1967,Male,Black,51,Elayn Hunt Correctional Center - DOC,2/21/1995,Convicted,Medical Facility,Yes,8764,2/19/2019,Medical Condition,Heart & Lungs,Cardiopulmonary arrest
+Shawn Murphy,3/2/1975,Male,Black,44,Elayn Hunt Correctional Center - DOC,11/25/2008,Convicted,Medical Facility,No,3896,7/27/2019,Medical Condition,Lungs,Respiratory Compromise
+Joseph Perkins,1/25/1978,Male,Black,41,Elayn Hunt Correctional Center - DOC,1/23/2012,Convicted,Medical Facility,No,2733,7/18/2019,Drugs,Heart & Lungs,Accidental injury to self - cardiopulmonary arrest
+Andre Coleman,2/19/1977,Male,Black,42,Elayn Hunt Correctional Center - DOC,8/29/2018,Convicted,Medical Facility,Yes,196,3/13/2019,Medical Condition,Heart & Organ Failure,cardiac arrest secondary to organ system failure
+John Farmer,10/24/1962,Male,White,56,Elayn Hunt Correctional Center - DOC,11/1/2004,Convicted,Medical Facility,Yes,5288,4/25/2019,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Alton Netter,7/24/1991,Male,Black,27,Elayn Hunt Correctional Center - DOC,4/17/2018,Convicted,Medical Facility,Yes,446,7/7/2019,Medical Condition,Heart & Lungs,Cardiopulmonary arrest
+Jewel McCastle,12/9/1974,Male,Black,44,Elayn Hunt Correctional Center - DOC,11/9/2010,Convicted,Medical Facility,Yes,2993,1/19/2019,Medical Condition,Heart & Lungs,Cardiac Pulmonary Arrest
+Alfred Tyler,8/3/1953,Male,White,65,David Wade Correctional Center - DOC,8/8/2014,Convicted,Medical Facility,No,1615,1/9/2019,Medical Condition,Heart & Lungs,Cardiopulmonary Arrest
+Johnny Sandifer,11/27/1947,Male,White,71,Elayn Hunt Correctional Center - DOC,10/13/2017,Convicted,Medical Facility,Yes,586,5/22/2019,Medical Condition,Lungs,Respiratory Failure
+William Entrekin,5/2/1957,Male,White,62,David Wade Correctional Center - DOC,1/8/2019,Convicted,Medical Facility,Yes,147,6/4/2019,Medical Condition,Heart,Heart attack
+Arthur Guillory,9/27/1942,Male,Black,76,Elayn Hunt Correctional Center - DOC,4/26/1973,Convicted,Medical Facility,No,16801,4/26/2019,Medical Condition,Cancer,Cancer
+James Davis,12/28/1965,Male,Black,53,Raymond Laborde Correctional Center - DOC,6/3/2019,Convicted,Medical Facility,No,0,6/3/2019,Medical Condition,Heart,Cardiac Arrest
+Lidio Calzadilla,8/3/1960,Male,Black,59,Dixon Correctional Institute - DOC,1/12/1987,Convicted,Medical Facility,Yes,11936,9/17/2019,Medical Condition,Lungs & Sepsis/Septic Shock,severe septic shock and respiratory failure
+Robert Bellanger,5/18/1976,Male,White,43,Raymond Laborde Correctional Center - DOC,5/8/2008,Convicted,Medical Facility,No,4146,9/14/2019,Medical Condition,Cancer,Cancer
+Erin Hunter,5/6/1963,Male,Black,56,Louisiana State Penitentiary (Angola Prison),9/15/1988,Convicted,Medical Facility,No,11319,9/12/2019,Medical Condition,Kidney/Liver,Liver disease
+Kenneth Edwards,8/26/1958,Male,Black,61,Louisiana State Penitentiary (Angola Prison),7/15/1996,Convicted,Medical Facility,No,8469,9/22/2019,Medical Condition,Kidney/Liver,Liver disease
+David Weber,4/19/1985,Male,White,34,Louisiana State Penitentiary (Angola Prison),9/19/2006,Convicted,Medical Facility,Yes,4761,10/2/2019,Medical Condition,Kidney/Liver,liver disease
+Oscar Vasquez,9/7/1966,Male,White,53,Elayn Hunt Correctional Center - DOC,3/1/2018,Convicted,Medical Facility,No,582,10/4/2019,Medical Condition,Cancer,cancer
+Charles Johnson,1/29/1950,Male,Black,69,Elayn Hunt Correctional Center - DOC,12/6/1996,Convicted,Cell,No,8346,10/13/2019,Medical Condition,Lungs,COPD
+Baron Johnson,8/24/1959,Male,Black,60,Dixon Correctional Institute - DOC,3/19/1991,Convicted,Medical Facility,Yes,10439,10/17/2019,Medical Condition,Kidney/Liver,liver disease
+Arthur Scott,4/26/1959,Male,Black,60,Elayn Hunt Correctional Center - DOC,7/30/2014,Convicted,Cell,No,1907,10/19/2019,Medical Condition,Cancer,cancer
+Geraldine Austin,1/28/1974,Female,White,45,Lousiana Correctional Institute for Women - DOC,2/2/2017,Convicted,Cell,Yes,847,5/30/2019,Medical Condition,Kidney/Liver,Liver disease
+Angel Pedroso,12/21/1940,Male,Black,78,Louisiana State Penitentiary (Angola Prison),8/28/1989,Convicted,Medical Facility,No,11023,11/2/2019,Medical Condition,Cancer,cancer
+Frank Bryant,7/31/1959,Male,Black,60,Louisiana State Penitentiary (Angola Prison),8/19/1996,Convicted,Medical Facility,Yes,8478,11/5/2019,Medical Condition,Heart,Heart attack
+William Moser,2/10/1952,Male,White,67,Louisiana State Penitentiary (Angola Prison),9/9/1990,Convicted,Medical Facility,Yes,10656,11/12/2019,Medical Condition,Lungs,COPD
+James Smith,8/20/1960,Male,Black,59,B.B. Rayburn Correctional Center - DOC,5/8/2019,Convicted,Medical Facility,Yes,187,11/11/2019,Medical Condition,Heart,cardiac arrest
+Roy Holmes,7/12/1944,Male,Black,75,Dixon Correctional Institute - DOC,4/23/2018,Convicted,Medical Facility,Yes,582,11/26/2019,Medical Condition,Heart,cardiogenic shock
+Ernest Lewis,12/18/1957,Male,Black,61,Dixon Correctional Institute - DOC,9/26/1995,Convicted,Medical Facility,Yes,8823,11/22/2019,Medical Condition,Brain,anoxic brain injury secondary to influenza
+Clyde Lacroix,3/8/1951,Male,White,68,David Wade Correctional Center - DOC,11/12/2012,Convicted,Medical Facility,No,2578,12/4/2019,Medical Condition,Heart,cardiac arrest
+Carlos Armstrong,7/12/1976,Male,Black,43,Elayn Hunt Correctional Center - DOC,10/30/1998,Convicted,Medical Facility,Yes,7704,12/3/2019,Medical Condition,Cancer,cancer
+Preston Brown,3/25/1938,Male,White,81,Elayn Hunt Correctional Center - DOC,6/1/2019,Convicted,Medical Facility,Yes,172,11/20/2019,Medical Condition,Heart,heart attack
+Michael Knight,1/18/1964,Male,White,55,Elayn Hunt Correctional Center - DOC,8/27/2003,Convicted,Medical Facility,No,5930,11/21/2019,Medical Condition,Heart,Cardiac arrest
+Roy Paulk,1/8/1940,Male,White,79,Elayn Hunt Correctional Center - DOC,9/10/1971,Convicted,Medical Facility,No,17548,9/26/2019,Medical Condition,Lungs,acute hypoxemic respiratory failure
+Alton Gavin,8/22/1963,Male,Black,56,Louisiana State Penitentiary (Angola Prison),8/16/1994,Convicted,Medical Facility,No,9230,11/23/2019,Medical Condition,Kidney/Liver,liver disease
+Quang Do,4/15/1966,Male,Other,53,Louisiana State Penitentiary (Angola Prison),1/15/2013,Convicted,Medical Facility,No,2494,11/14/2019,Medical Condition,Cancer,cancer
+Herbert Mulberry,8/4/1957,Male,Black,62,Louisiana State Penitentiary (Angola Prison),7/11/2016,Convicted,Medical Facility,No,1200,10/24/2019,Medical Condition,Cancer,cancer
+Anthony Williams,5/13/1966,Male,Black,53,Louisiana State Penitentiary (Angola Prison),5/1/1995,Convicted,Medical Facility,No,8942,10/24/2019,Medical Condition,Heart,heart attack
+James Spikes,8/8/1953,Male,Black,66,Louisiana State Penitentiary (Angola Prison),5/10/1982,Convicted,Medical Facility,No,13706,11/18/2019,Medical Condition,Heart & Lungs,cardioresiratory arrest
+Terry Smith,3/29/1979,Male,Black,40,Louisiana State Penitentiary (Angola Prison),6/16/2011,Convicted,Medical Facility,No,3046,10/18/2019,Drugs,Overdose/Intoxication,acute fentanoyl intoxication/atheroscler (accidental)
+Allen Gaines,11/13/1951,Male,White,68,Raymond Laborde Correctional Center - DOC,6/18/2009,Convicted,Medical Facility,Yes,3826,12/9/2019,Medical Condition,Heart,Heart failure; cardiomyopathy
+Dramond Matthews,7/8/1994,Male,Black,24,Raymond Laborde Correctional Center - DOC,2/8/2019,Convicted,Medical Facility,Yes,84,5/3/2019,Medical Condition,Heart,heart attack
+Timothy Craddock,9/3/1964,Male,White,54,Elayn Hunt Correctional Center - DOC,12/5/2016,Convicted,Medical Facility,Yes,819,3/4/2019,Medical Condition,Cancer,metastic lung cancer
+Joel Baker,10/3/1957,Male,White,62,Louisiana State Penitentiary (Angola Prison),8/21/1989,Convicted,Cell,No,11082,12/24/2019,Suicide,Lungs,respiratory failure secondary
+Darrell Artis,12/14/1956,Male,Black,63,Elayn Hunt Correctional Center - DOC,1/16/1992,Convicted,Medical Facility,No,10196,12/16/2019,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Charles Baughman,3/1/1963,Male,White,56,Elayn Hunt Correctional Center - DOC,12/5/2011,Convicted,Medical Facility,No,2929,12/12/2019,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Robert Carter,1/12/1983,Male,Black,36,Dixon Correctional Institute - DOC,6/8/2015,Convicted,Medical Facility,Yes,1655,12/19/2019,Medical Condition,Cancer,brain cancer
+Morrison Furlow,7/20/1938,Male,White,81,B.B. Rayburn Correctional Center - DOC,11/9/2015,Convicted,Medical Facility,No,1513,12/31/2019,Medical Condition,Sepsis/Septic Shock,septic shock
+Sammie Robinson,1/6/1936,Male,Black,83,Louisiana State Penitentiary (Angola Prison),9/26/1953,Convicted,Medical Facility,No,24191,12/20/2019,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Peter Adams,3/26/1972,Male,White,47,Calcasieu Parish Correctional Center,9/28/2000,Convicted,Cell,No,6888,8/8/2019,Medical Condition,Heart,heart attack
+Patrick Bonner,7/11/1987,Male,Black,31,West Feliciana Parish Work Release Facility,2/15/2018,Convicted,Medical Facility,No,472,6/2/2019,Drugs,Overdose/Intoxication,overdose- meth
+Bobby Buras,7/12/1989,Male,White,29,Catahoula Correctional Center - LaSalle,3/5/2013,Convicted,Unknown,No,2302,6/24/2019,Drugs,Overdose/Intoxication,overdose
+Kenneth Johnson,4/25/1953,Male,Black,66,City of Faith Monroe House (Male & Female),9/5/2007,Convicted,Medical Facility,No,4466,11/27/2019,Medical Condition,Heart,cardiac arrest
+George Minor,12/24/1963,Male,Black,55,Riverbend Detention Center,8/30/2019,Convicted,Medical Facility,No,18,9/17/2019,Medical Condition,Lungs,"COPD, hypertension"
+Brittany Walker,8/14/1984,Female,White,35,Concordia Correctional Facility,6/20/2019,Convicted,Cell,Yes,109,10/7/2019,Medical Condition,Heart,cardiac arrest
+Lionel Wallace,6/9/1951,Male,Black,68,Webster Correctional Facility (Bayou Dorcheat Correctional Facility),7/17/1981,Convicted,Work,No,13923,8/30/2019,Medical Condition,Heart & Lungs,cardiopulmonary failure
+Donald Fuller,10/23/1990,Male,Black,29,"Southwest TWP- Phelps Correctional Center, Dequincy, LA",4/3/2018,Convicted,Cell,No,605,11/29/2019,Medical Condition,Heart,cardiac arrest
+Michael Woods,3/12/1969,Male,Black,46,Louisiana State Penitentiary (Angola Prison),1/14/1993,Convicted,Work,No,8266,9/2/2015,Violence,Homicide,Homicide
+Ronald Goings,9/3/1954,Male,White,61,Louisiana State Penitentiary (Angola Prison),7/29/1992,Convicted,Medical Facility,Yes,8447,9/14/2015,Medical Condition,Kidney/Liver,cirrhosis of the liver/GI bleed
+Robert Byrd,8/12/1958,Male,White,57,Louisiana State Penitentiary (Angola Prison),1/15/1982,Convicted,Medical Facility,Yes,12300,9/19/2015,Medical Condition,Kidney/Liver,chronic kidney disease
+Dennis Coleman,4/19/1957,Male,Black,58,Louisiana State Penitentiary (Angola Prison),5/30/1990,Convicted,Medical Facility,Yes,9244,9/20/2015,Medical Condition,Kidney/Liver,end stage encephalopathy
+Ronald Vail,10/11/1952,Male,White,62,Louisiana State Penitentiary (Angola Prison),8/18/2014,Convicted,Medical Facility,Yes,398,9/20/2015,Medical Condition,Sepsis/Septic Shock,septic shock
+Tillman Alfred,7/16/1935,Male,Black,80,Louisiana State Penitentiary (Angola Prison),9/16/1993,Convicted,Medical Facility,Yes,8050,10/1/2015,Medical Condition,AIDS,AIDS
+Larry Lofton,7/8/1961,Male,Black,54,Louisiana State Penitentiary (Angola Prison),8/6/1982,Convicted,Medical Facility,Yes,12121,10/13/2015,Medical Condition,Sepsis/Septic Shock,palliative care/sepsis
+Walter Brumfield,10/1/1952,Male,Black,63,Louisiana State Penitentiary (Angola Prison),4/28/1976,Convicted,Medical Facility,Yes,14404,10/5/2015,Medical Condition,Cancer,respiratory failure secondary to lung cancer
+Melvin Johnson,3/23/1961,Male,Black,54,Louisiana State Penitentiary (Angola Prison),5/4/2011,Convicted,Medical Facility,Yes,1622,10/12/2015,Medical Condition,Sepsis/Septic Shock,negative rod sepsis; carcinogenic shock
+Johnny Dickerson,4/6/1946,Male,White,69,Louisiana State Penitentiary (Angola Prison),7/8/1987,Convicted,Medical Facility,Yes,10327,10/16/2015,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Ezekiel Jenkins,1/14/1941,Male,White,74,Louisiana State Penitentiary (Angola Prison),12/4/1974,Convicted,Medical Facility,No,14928,10/18/2015,Medical Condition,Heart & Liver,cardiac arrest related to liver failure
+Lonnie Easterwood,4/6/1957,Male,White,58,Louisiana State Penitentiary (Angola Prison),2/14/1980,Convicted,Medical Facility,Yes,13031,10/19/2015,Medical Condition,Brain,cerebrovascular accident (stroke)
+Joseph Romero,12/5/1967,Male,White,47,Louisiana State Penitentiary (Angola Prison),3/5/2008,Convicted,Cell,No,2788,10/23/2015,Suicide,Hanging,Asphyxia by hanging
+Lawrence Dundy,4/23/1941,Male,Black,74,Louisiana State Penitentiary (Angola Prison),6/19/1980,Convicted,Cell,Yes,12912,10/26/2015,Medical Condition,Heart,heart attack
+Carl Foster,1/29/1964,Male,White,51,Louisiana State Penitentiary (Angola Prison),11/12/1982,Convicted,Cell,No,11922,7/4/2015,Suicide,Stabbing,Self inflicting stab wound to neck.
+Windell Martin,10/12/1938,Male,Black,77,Louisiana State Penitentiary (Angola Prison),1/14/1971,Convicted,Medical Facility,Yes,16374,11/13/2015,Medical Condition,Heart,cardiac arrest
+Glen Harrison,3/17/1949,Male,Black,66,Louisiana State Penitentiary (Angola Prison),4/20/1990,Convicted,Medical Facility,Yes,9338,11/13/2015,Medical Condition,Lungs,pneumonia
+Billy Stevens,8/21/1957,Male,Black,58,Louisiana State Penitentiary (Angola Prison),9/29/1999,Convicted,Medical Facility,Yes,5902,11/26/2015,Medical Condition,Lungs,asthma
+Troy Volentine,11/26/1968,Male,White,47,Louisiana State Penitentiary (Angola Prison),9/16/2009,Convicted,Medical Facility,No,2271,12/5/2015,Medical Condition,Kidney/Liver,liver disease
+Vernon Mullin,5/16/1964,Male,White,51,Louisiana State Penitentiary (Angola Prison),12/2/2013,Convicted,Medical Facility,Yes,733,12/5/2015,Medical Condition,Heart,end stage of congestive heart failure
+Thomas Phillips,4/27/1938,Male,White,77,Louisiana State Penitentiary (Angola Prison),1/21/1976,Convicted,Medical Facility,No,14565,12/7/2015,Medical Condition,Organ Failure,"amyotrophic lateral sclerosis, hypothyroid"
+Johnny Sykes,5/7/1939,Male,Black,76,Louisiana State Penitentiary (Angola Prison),12/17/1999,Convicted,Medical Facility,No,5835,12/8/2015,Medical Condition,Heart,acute diffuse intravascular coagulopathy
+James Farmer,5/7/1939,Male,White,76,Louisiana State Penitentiary (Angola Prison),6/8/1997,Convicted,Medical Facility,Yes,6758,12/9/2015,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Willmoth Walker,8/31/1957,Male,Black,58,Louisiana State Penitentiary (Angola Prison),8/31/1957,Convicted,Medical Facility,Yes,21286,12/11/2015,Medical Condition,Brain,CVA with herniation
+Patrick Behtley,2/6/1968,Male,Black,47,Louisiana State Penitentiary (Angola Prison),12/2/1998,Convicted,Medical Facility,Yes,6224,12/17/2015,Medical Condition,Brain,intracranial bleeding
+Jerry Butler,7/30/1960,Male,Black,55,Louisiana State Penitentiary (Angola Prison),7/26/2005,Convicted,Medical Facility,Yes,3805,12/26/2015,Medical Condition,Heart,heart attack
+Ernie Stokes,9/11/1959,Male,Black,56,Louisiana State Penitentiary (Angola Prison),3/27/1981,Convicted,Medical Facility,Yes,12615,10/10/2015,Medical Condition,Heart,heart attack
+Timmy Bradley,1/4/1969,Male,Black,46,"Southwest TWP- Phelps Correctional Center, Dequincy, LA",3/8/2010,Convicted,Cell,No,1970,7/30/2015,Medical Condition,Heart,cardiac arrest
+Mary Riley,10/24/1943,Female,White,71,Lousiana Correctional Institute for Women - DOC,2/6/2015,Convicted,Medical Facility,Yes,0,2/6/2015,Medical Condition,Brain,ruptured aneurysm
+Hattie Mckeever,10/24/1943,Female,Black,72,Lousiana Correctional Institute for Women - DOC,1/19/1982,Convicted,Medical Facility,Yes,12369,12/1/2015,Medical Condition,Diabetes,ketoacidosis
+Gary Martin,12/17/1939,Male,White,75,Dixon Correctional Institute - DOC,4/14/2014,Convicted,Medical Facility,Yes,304,2/12/2015,Medical Condition,Heart & Lungs,Cardiopulmonary arrest
+Jessie Johnson,11/3/1939,Male,Black,75,Dixon Correctional Institute - DOC,2/28/2015,Convicted,Medical Facility,Yes,2,3/2/2015,Medical Condition,AIDS,AIDS
+Beauregard Wattigney,7/7/1957,Male,White,57,Dixon Correctional Institute - DOC,3/12/2015,Convicted,Medical Facility,No,0,3/12/2015,Medical Condition,Heart & Lungs,Cardiopulmonary arrest
+Ricky Richard,8/1/1960,Male,Black,54,Dixon Correctional Institute - DOC,2/6/2001,Convicted,Medical Facility,Yes,5187,4/21/2015,Medical Condition,Lungs,Lung cancer with metastasis to the brain
+Charles McCoy,8/29/1946,Male,White,68,Dixon Correctional Institute - DOC,8/2/2010,Convicted,Medical Facility,Yes,1777,6/14/2015,Medical Condition,Heart,Congestive heart failure due to ischemia
+Kedrin Turner,9/26/1978,Male,Black,36,Dixon Correctional Institute - DOC,3/11/2013,Convicted,Medical Facility,No,853,7/12/2015,Medical Condition,Heart & Lungs,Cardiopulmonary arrest as a result of cardiogenic shock
+Rudell Griffin,10/18/1959,Male,Black,55,Dixon Correctional Institute - DOC,3/14/2007,Convicted,Medical Facility,No,3110,9/18/2015,Medical Condition,Heart & Lungs & Cancer,Cardiopulmonary arrest and cancer
+Malcolm Franklin,1/20/1965,Male,Black,50,Dixon Correctional Institute - DOC,8/26/2015,Convicted,Unknown,No,78,11/12/2015,Medical Condition,Heart & Lungs,Cardiopulmonary Arrest
+Troy Powell,12/31/1956,Male,Black,58,Elayn Hunt Correctional Center - DOC,6/1/2007,Convicted,Medical Facility,No,2778,1/8/2015,Medical Condition,Heart & Lungs,Cardiopulmonary arrest
+Carl Chapelle,4/5/1959,Male,White,55,Elayn Hunt Correctional Center - DOC,3/8/2012,Convicted,Medical Facility,Yes,1040,1/12/2015,Medical Condition,Cancer,Cancer of the lung
+Ronald Jones,11/3/1949,Male,Black,65,Elayn Hunt Correctional Center - DOC,2/16/1973,Convicted,Medical Facility,No,15324,1/31/2015,Medical Condition,Heart & Lungs,Cardiopulmonary arrest
+Kenneth Daigneault,7/9/1956,Male,White,58,Elayn Hunt Correctional Center - DOC,8/13/2007,Convicted,Cell,Yes,2740,2/12/2015,Medical Condition,Kidney/Liver,Chronic renal disease
+William Rinehart,7/20/1945,Male,White,69,Elayn Hunt Correctional Center - DOC,9/27/2012,Convicted,Medical Facility,No,910,3/26/2015,Medical Condition,Heart,Heart attack
+John Covington,4/11/1939,Male,Black,75,Elayn Hunt Correctional Center - DOC,11/30/2006,Convicted,Medical Facility,No,3044,4/1/2015,Medical Condition,Heart & Lungs & Cancer,Cardiopulmonary arrest (stage IV Colon cancer)
+Reynard Gregorie,4/18/1964,Male,Other,51,Elayn Hunt Correctional Center - DOC,5/5/2015,Convicted,Medical Facility,No,9,5/14/2015,Medical Condition,Heart & Lungs,Cardiopulmonary arrest
+Jonathan Edgerson,2/21/1970,Male,Black,45,Elayn Hunt Correctional Center - DOC,11/8/2006,Convicted,Medical Facility,Yes,3116,5/21/2015,Medical Condition,Heart & Lungs,Cardiopulmonary arrest
+Brian Bell,3/18/1954,Male,White,61,Elayn Hunt Correctional Center - DOC,10/13/1993,Convicted,Medical Facility,Yes,7890,5/21/2015,Medical Condition,Heart & Lungs & Cancer,Cardiopulmonary arrest secondary to lung cancer
+Henry Randean,3/8/1964,Male,White,51,Elayn Hunt Correctional Center - DOC,11/3/2014,Convicted,Medical Facility,Yes,206,5/28/2015,Medical Condition,Heart & Lungs,Cardiopulmonary arrest
+James Vallier,12/13/1956,Male,Black,58,Elayn Hunt Correctional Center - DOC,4/8/2015,Convicted,Medical Facility,Yes,54,6/1/2015,Medical Condition,Sepsis/Septic Shock,Sepsis
+Charles Felton,12/5/1955,Male,Black,59,Elayn Hunt Correctional Center - DOC,12/15/1982,Convicted,Medical Facility,No,11876,6/21/2015,Medical Condition,Heart & Lungs,Cardiopulmonary arrest
+Joseph Horton,9/27/1948,Male,Black,66,Elayn Hunt Correctional Center - DOC,4/1/2014,Convicted,Medical Facility,Yes,470,7/15/2015,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Arthur Veal,7/3/1959,Male,Black,56,Elayn Hunt Correctional Center - DOC,12/6/2012,Convicted,Unknown,No,953,7/17/2015,Medical Condition,Heart,cardiac arrest
+Gregory Menard,12/4/1954,Male,Black,60,Elayn Hunt Correctional Center - DOC,7/5/2011,Convicted,Medical Facility,Yes,1498,8/11/2015,Medical Condition,Heart & Lungs & Kidney/Liver,cardiopulmonary arrest secondary to end stage liver disease
+Tolliver Johnson,10/10/1947,Male,Black,67,Elayn Hunt Correctional Center - DOC,6/11/2009,Convicted,Unknown,No,2248,8/7/2015,Medical Condition,Lungs,respiratory arrest
+Melvin Phillips,11/16/1948,Male,Black,66,Elayn Hunt Correctional Center - DOC,4/27/2004,Convicted,Unknown,No,4129,8/17/2015,Medical Condition,Brain,Endocranial hemorrhage with herniation
+David Velzques,6/14/1962,Male,White,53,Elayn Hunt Correctional Center - DOC,8/18/2014,Convicted,Medical Facility,Yes,370,8/23/2015,Medical Condition,Cancer,Cancer
+Jacinto Eusebio,8/17/1954,Male,White,61,Elayn Hunt Correctional Center - DOC,12/29/1963,Convicted,Medical Facility,No,18881,9/8/2015,Medical Condition,Heart,Natural expected/chronic illness: heart disease
+Donald Mapes,9/21/1959,Male,White,55,Elayn Hunt Correctional Center - DOC,10/18/2004,Convicted,Medical Facility,No,3980,9/11/2015,Medical Condition,Heart,Cardiac arrest. Ventricular Arrythmia and Congestive Heart Failure
+Rufus McCoy,3/11/1943,Male,Black,72,Elayn Hunt Correctional Center - DOC,8/16/1997,Convicted,Medical Facility,No,6609,9/20/2015,Medical Condition,Heart,Heart attack
+Dale Bourland,2/21/1940,Male,White,74,David Wade Correctional Center - DOC,12/15/1980,Convicted,Medical Facility,Yes,12448,1/14/2015,Medical Condition,Brain,Ruptured right middle cerebral artery aneurysm
+Perry Abbott,7/28/1968,Male,Black,46,David Wade Correctional Center - DOC,9/27/2011,Convicted,Medical Facility,No,1243,2/21/2015,Medical Condition,Brain & Sepsis/Septic Shock,"Hemorragic stroke, sepsis, infective endocarditis."
+Alvin Bell,10/10/1963,Male,Black,51,David Wade Correctional Center - DOC,10/6/1997,Convicted,Cell,No,6543,9/5/2015,Medical Condition,Heart,Cardiac arrest
+Micheal Tillie,1/1/1957,Male,Black,58,Elayn Hunt Correctional Center - DOC,1/24/2015,Convicted,Medical Facility,Yes,0,1/24/2015,Medical Condition,Cancer,Respiratory failure secondary to squamous call lung cancer
+Sidney Mccormick,6/14/1952,Male,Black,62,Elayn Hunt Correctional Center - DOC,1/31/2015,Convicted,Medical Facility,Yes,0,1/31/2015,Medical Condition,Heart,Heart attack
+Brian Knapp,1/20/1965,Male,White,50,Elayn Hunt Correctional Center - DOC,2/7/2015,Convicted,Unknown,Yes,0,2/7/2015,Medical Condition,Lungs,Respiratory distress leading to cardiac arrest
+Sammy Foster,12/8/1949,Male,White,65,Elayn Hunt Correctional Center - DOC,8/5/1993,Convicted,Medical Facility,No,7866,2/17/2015,Medical Condition,Cancer,End stage gastric cancer
+Ronald Joseph,11/22/1952,Male,Black,62,Elayn Hunt Correctional Center - DOC,12/12/2014,Convicted,Medical Facility,Yes,80,3/2/2015,Medical Condition,Brain,subarachnoid hemorrhage
+Herbert Falgoust,1/28/1960,Male,Black,55,Elayn Hunt Correctional Center - DOC,5/29/2014,Convicted,Medical Facility,Yes,298,3/23/2015,Medical Condition,Heart & Lungs,Cardiorespiratory arrest
+Vin Ennis,5/4/1965,Male,Black,49,Elayn Hunt Correctional Center - DOC,12/13/2010,Convicted,Medical Facility,Yes,1567,3/29/2015,Medical Condition,Brain & Sepsis/Septic Shock,"Brain stem herniation, extensive intracranial bleeding, cardiac tamponade, sepsis"
+Daniel Christina,4/22/1964,Male,Black,50,Elayn Hunt Correctional Center - DOC,2/4/2015,Convicted,Unknown,Yes,56,4/1/2015,Medical Condition,Stomach/Intestine,Spontaneous bacterial peritonitis
+Ronnie Rumore,3/24/1974,Male,White,41,Elayn Hunt Correctional Center - DOC,1/22/2013,Convicted,Unknown,Yes,805,4/7/2015,Medical Condition,Sepsis/Septic Shock,"""isease"" and sepsis"
+Donald Price,3/19/1951,Male,Black,64,Elayn Hunt Correctional Center - DOC,1/20/2015,Convicted,Medical Facility,Yes,119,5/19/2015,Medical Condition,Lungs,Severe emphysema
+James Paulley,4/26/1950,Male,Black,65,Elayn Hunt Correctional Center - DOC,5/31/1995,Convicted,Unknown,No,7335,6/30/2015,Medical Condition,Heart & Lungs,"cardiorespiratory arrest, anoxic brain injury, severe encephalopathy"
+Matthew Smith,2/13/1950,Male,Black,65,Elayn Hunt Correctional Center - DOC,8/14/2014,Convicted,Unknown,Yes,417,10/5/2015,Medical Condition,Cancer,Cancer
+Robert Oconnell,1/4/1944,Male,White,71,Elayn Hunt Correctional Center - DOC,8/14/2014,Convicted,Medical Facility,Yes,376,8/25/2015,Medical Condition,Stomach/Intestine,GI bleed/hemorrhage
+James Taylor,7/28/1946,Male,Black,68,Elayn Hunt Correctional Center - DOC,9/8/2000,Convicted,Medical Facility,No,5429,7/21/2015,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Manuel Bolian,12/4/1954,Male,Black,60,Elayn Hunt Correctional Center - DOC,10/30/2013,Convicted,Medical Facility,Yes,639,7/31/2015,Medical Condition,Heart,Cardiac arrest
+Edwin Savoy,6/8/1960,Male,White,55,Elayn Hunt Correctional Center - DOC,12/21/2009,Convicted,Unknown,No,2151,11/11/2015,Medical Condition,AIDS,AIDS
+Robert Howard,3/3/1952,Male,Black,63,Elayn Hunt Correctional Center - DOC,5/23/1968,Convicted,Unknown,No,17248,8/13/2015,Medical Condition,Sepsis/Septic Shock,Septic shock and hypertension
+Marvin White,4/12/1948,Male,Black,67,Dixon Correctional Institute - DOC,8/18/2011,Convicted,Medical Facility,Yes,1531,10/27/2015,Medical Condition,Heart,congestive heart failure
+Jackie Barrick,3/17/1975,Female,White,40,Elayn Hunt Correctional Center - DOC,7/30/2015,Convicted,Unknown,No,38,9/6/2015,Medical Condition,Brain,Neuroleptic malignant syndrome and metabolic encephalopathy
+Willie Curtis,5/11/1963,Male,Black,52,David Wade Correctional Center - DOC,5/28/2008,Convicted,Unknown,No,2564,6/5/2015,Medical Condition,Heart,Cardiac arrest
+Larry Jean,5/14/1948,Male,Black,67,Louisiana State Penitentiary (Angola Prison),5/17/2007,Convicted,Unknown,Yes,3099,11/10/2015,Medical Condition,Lungs,End stage COPD
+Elton Kingsby,12/12/1939,Male,Black,75,Raymond Laborde Correctional Center - DOC,8/30/1993,Convicted,Unknown,Yes,7879,3/27/2015,Medical Condition,Heart,hypertensive Atherosclerotic cardiovascular disease
+Joseph Lewis,1/9/1934,Male,White,81,Elayn Hunt Correctional Center - DOC,10/15/2012,Convicted,Unknown,Yes,1121,11/10/2015,Medical Condition,Heart,Congestive heart Failure due to Hypertentive Arteriosclerotic Cardiovascular disease.
+Michael Hall,8/27/1961,Male,White,53,B.B. Rayburn Correctional Center - DOC,7/14/2008,Convicted,Unknown,Yes,2403,2/11/2015,Medical Condition,Cancer,prostate cancer
+Stephen Harrington,7/31/1959,Male,White,56,Elayn Hunt Correctional Center - DOC,1/26/2009,Convicted,Unknown,Yes,2513,12/14/2015,Medical Condition,Kidney/Liver,End of stage liver disease
+Craig Aubert,9/13/1968,Male,Black,46,Other,1/6/2011,Convicted,Cell,No,1469,1/14/2015,Medical Condition,Kidney/Liver,end of stage liver disease
+Elvis Smith,8/5/1969,Male,White,45,David Wade Correctional Center - DOC,11/13/2014,Convicted,Unknown,No,80,2/1/2015,Medical Condition,Lungs,Pneumonia and COPD
+Gary Simpson,3/8/1962,Male,White,53,Elayn Hunt Correctional Center - DOC,2/15/1993,Convicted,Unknown,Yes,8318,11/25/2015,Medical Condition,Heart,End-stage congestive heart failure
+Howard Tucker,12/29/1927,Male,White,87,Winn Correctional Center,1/6/1997,Convicted,Unknown,Yes,6603,2/4/2015,Medical Condition,Kidney/Liver,Liver disease
+James Johnston,1/27/1942,Male,White,73,Louisiana State Penitentiary (Angola Prison),3/30/1978,Convicted,Unknown,Yes,13452,1/27/2015,Medical Condition,Kidney/Liver,liver disease
+Lawrence Wehner,2/1/1942,Male,White,73,Louisiana State Penitentiary (Angola Prison),5/30/2002,Convicted,Unknown,Yes,4924,11/22/2015,Medical Condition,Heart & Lungs,Cardiopulmonary arrest
+Rudolph Jackson,10/30/1962,Male,Black,52,Louisiana State Penitentiary (Angola Prison),1/27/1989,Convicted,Unknown,Yes,9641,6/21/2015,Medical Condition,Lungs & Liver,Respiratory failure due to complications associated with Liver Disease
+Alfred Hubbard,10/30/1962,Male,Black,53,Raymond Laborde Correctional Center - DOC,11/17/2010,Convicted,Unknown,Yes,1851,12/12/2015,Medical Condition,Cancer,Cancer
+Winfred Blount,5/4/1979,Male,Black,36,South Louisiana Correctional ICE Processing Center,3/11/2015,Convicted,Unknown,No,159,8/17/2015,Medical Condition,Cancer,Cancer
+Quentin Rogers,10/30/1987,Male,Black,28,"Southwest TWP- Phelps Correctional Center, Dequincy, LA",6/24/2015,Convicted,Unknown,No,168,12/9/2015,Medical Condition,Cancer,Cancer
+Larry Brealy,11/20/1963,Male,Black,51,Franklin Parish Detention Center,4/11/2014,Convicted,Unknown,No,453,7/8/2015,Medical Condition,Cancer,Cancer
+Floyd Brown,10/24/1952,Male,Black,62,Richland Parish Detention Center (Males) - LaSalle,12/5/2014,Convicted,Unknown,No,153,5/7/2015,Medical Condition,Cancer,Cancer
+Rickey Combs,1/14/1960,Male,Black,55,Concordia Correctional Facility,9/5/2014,Convicted,Unknown,No,353,8/24/2015,Medical Condition,Cancer,Liver cancer
+Charles Fontenot,6/2/1954,Male,White,60,Concordia Correctional Facility,8/4/2014,Convicted,Unknown,No,249,4/10/2015,Medical Condition,Kidney/Liver,end of stage liver disease
+Rodney Francis,5/16/1959,Male,Black,56,Franklin Parish Detention Center,8/15/2014,Convicted,Unknown,No,375,8/25/2015,Medical Condition,Heart,Cardiac arrest
+Tyrone James,11/11/1969,Male,Black,45,Webster Correctional Facility (Bayou Dorcheat Correctional Facility),3/29/2006,Convicted,Unknown,No,3441,8/30/2015,Medical Condition,Kidney/Liver,end stage renal disease
+Johntrell Lumar,2/11/1983,Male,Black,31,Iberville Parish Jail,12/16/2014,Convicted,Cell,No,55,2/9/2015,Medical Condition,Cancer,Cancer
+Kenneth Winch,7/18/1979,Male,White,36,Terrebonne Parish Criminal Justice Complex,12/1/2015,Convicted,Cell,No,12,12/13/2015,Accident,Redacted,"""na"""
+Arthur Upshaw,6/27/1960,Male,Black,54,LaSalle Corrections Center,11/14/2014,Convicted,Unknown,No,55,1/8/2015,Medical Condition,Heart & Lungs,Cardiopulmonary arrest
+Kevin Savoy,6/25/1965,Male,Black,50,Concordia Correctional Facility,11/12/2014,Convicted,Medical Facility,Yes,252,7/22/2015,Medical Condition,Heart,Heart attack
+Ernest Ross,1/25/1989,Male,Black,26,Terrebonne Parish Criminal Justice Complex,4/10/2014,Convicted,Unknown,Yes,309,2/13/2015,Medical Condition,Heart,heart attack
+Vernon Ramsey,12/13/1956,Male,Black,59,Union Parish Detention Center,1/6/2015,Convicted,Unknown,No,345,12/17/2015,Medical Condition,Kidney/Liver,Cirrhosis of liver
+Robert Penton,8/16/1989,Male,White,25,Tensas Parish Detention Center,3/9/2015,Convicted,Cell,No,124,7/11/2015,Medical Condition,Sepsis/Septic Shock,Septic shock
+James Moore,8/28/1952,Male,White,63,Union Parish Detention Center,8/31/2015,Convicted,Cell,No,51,10/21/2015,Medical Condition,Heart,Hypertensive Atherosclerotic Cardiovascular Disease
+Brandon Montelbano,4/16/1979,Male,White,36,City of Faith Monroe House (Male & Female),4/5/2010,Convicted,Unknown,No,1911,6/29/2015,Medical Condition,Cancer,Cancer
+Lamar Miller,6/28/1987,Male,Black,28,Caldwell Parish Correctional Center,1/27/2015,Convicted,Unknown,No,152,6/28/2015,Medical Condition,Sepsis/Septic Shock,Sepsis
+Sylvester Taylor,10/30/1950,Male,Black,65,Dixon Correctional Institute - DOC,8/3/1973,Convicted,Medical Facility,Yes,15581,3/31/2016,Medical Condition,Heart,Heart Attack
+Stephen Watson,7/18/1949,Male,Black,66,Elayn Hunt Correctional Center - DOC,1/2/2016,Convicted,Medical Facility,Yes,0,1/2/2016,Medical Condition,Heart & Lungs,Cardiopulmonary arrest
+Danny Hebert,1/9/1959,Male,White,57,Elayn Hunt Correctional Center - DOC,7/11/2011,Convicted,Medical Facility,Yes,1650,1/16/2016,Medical Condition,Heart,Heart attack
+Barry Diggs,10/12/1956,Male,Black,59,Elayn Hunt Correctional Center - DOC,3/7/1984,Convicted,Medical Facility,No,11629,1/8/2016,Medical Condition,Kidney/Liver,Liver disease - secondary to hepatitis
+Daniel Dempsey,11/14/1954,Male,Black,61,Elayn Hunt Correctional Center - DOC,9/21/2013,Convicted,Medical Facility,Yes,851,1/20/2016,Medical Condition,Heart,Cardiac arrest
+Curtis Jones,12/2/1959,Male,Black,56,Elayn Hunt Correctional Center - DOC,12/14/2011,Convicted,Medical Facility,Yes,1502,1/24/2016,Medical Condition,Heart,cardiac arrest
+Dannie Hayes,8/3/1959,Male,Black,56,Elayn Hunt Correctional Center - DOC,12/3/2015,Convicted,Medical Facility,Yes,58,1/30/2016,Medical Condition,Heart,Cardiovascular disease
+Kenneth Roberson,8/18/1957,Male,Black,58,Elayn Hunt Correctional Center - DOC,6/1/1999,Convicted,Medical Facility,No,6099,2/11/2016,Medical Condition,Lungs,Streptoccocal pneumonia
+James McKenzie,5/3/1945,Male,Black,70,Elayn Hunt Correctional Center - DOC,2/28/2016,Convicted,Medical Facility,No,0,2/28/2016,Medical Condition,Heart,Cardiac arrest
+Robert Lavergne,9/8/1959,Male,White,56,Elayn Hunt Correctional Center - DOC,3/7/2016,Convicted,Medical Facility,Yes,0,3/7/2016,Medical Condition,Heart,Heart attack
+Steven Wallace,5/9/1966,Male,White,49,Elayn Hunt Correctional Center - DOC,3/15/2016,Convicted,Medical Facility,No,0,3/15/2016,Medical Condition,Kidney/Liver,Liver disease
+Alvin Rochelle,10/31/1958,Male,Black,57,Elayn Hunt Correctional Center - DOC,4/7/2016,Convicted,Medical Facility,Yes,0,4/7/2016,Medical Condition,Lungs & Sepsis/Septic Shock,pneumonia secondary to septic shock
+Larry Nicholas,1/6/1982,Male,Black,34,Elayn Hunt Correctional Center - DOC,4/12/2016,Convicted,Medical Facility,No,0,4/12/2016,Medical Condition,Lungs,Chronic asthma attack
+Bobby Mahoney,1/28/1963,Male,Black,53,Elayn Hunt Correctional Center - DOC,5/7/2013,Convicted,Medical Facility,Yes,1093,5/4/2016,Medical Condition,Lungs,"Chronic COPD, hypertensive atherosclerosis"
+Johnie Young,3/13/1953,Male,Black,63,Elayn Hunt Correctional Center - DOC,5/22/2016,Convicted,Medical Facility,Yes,0,5/22/2016,Accident,Assault,Accidental injury by other --> Traumatic brain injury
+Jerry Santee,8/20/1948,Male,Black,67,Elayn Hunt Correctional Center - DOC,5/28/2016,Convicted,Medical Facility,No,0,5/28/2016,Medical Condition,Lungs,Asthma attack
+Cheryl Schonsby,8/25/1962,Female,White,53,Lousiana Correctional Institute for Women - DOC,1/29/2015,Convicted,Medical Facility,Yes,386,2/19/2016,Medical Condition,Heart & Lungs,Multiorgan failure -- cardiopulmonary Arrest
+Roberta Marr,8/13/1945,Female,White,70,Lousiana Correctional Institute for Women - DOC,5/23/1992,Convicted,Medical Facility,Yes,8795,6/21/2016,Medical Condition,Heart & Lungs,"Cardiorespiratory failure, subdural hygroma"
+Nolan Schouest,10/7/1950,Male,White,65,Louisiana State Penitentiary (Angola Prison),12/10/1976,Convicted,Medical Facility,Yes,14395,5/9/2016,Medical Condition,Cancer,Hepatocellular Carcinoma
+Leslie Phillips,10/30/1955,Male,Black,60,B.B. Rayburn Correctional Center - DOC,5/11/2015,Convicted,Medical Facility,Yes,266,2/1/2016,Medical Condition,Kidney/Liver,Liver Disease
+Willie Sandifer,2/5/1950,Male,Black,66,B.B. Rayburn Correctional Center - DOC,7/18/1988,Convicted,Cell,No,10114,3/27/2016,Violence,Brain,intracerebral hemorrhage secondary to trauma.
+Kenneth Corley,2/4/1958,Male,Black,57,Elayn Hunt Correctional Center - DOC,3/15/1991,Convicted,Unknown,No,8999,11/3/2015,Medical Condition,Cancer,cancer
+Frank Bauer,11/24/1935,Male,Black,80,Raymond Laborde Correctional Center - DOC,8/14/2003,Convicted,Medical Facility,No,4829,11/2/2016,Medical Condition,Cancer,small cell lung cancer with metastasis
+William Birtha,1/19/1944,Male,Black,72,Louisiana State Penitentiary (Angola Prison),8/18/1997,Convicted,Medical Facility,No,6796,3/27/2016,Medical Condition,Cancer,cancer
+Arthur Turner,10/24/1949,Male,Black,66,Louisiana State Penitentiary (Angola Prison),10/19/1973,Convicted,Medical Facility,Yes,15591,6/26/2016,Medical Condition,Heart & Cancer,cardiac arrest secondary to end stage lung cancer
+Charles Varnado,7/14/1944,Male,Black,72,Louisiana State Penitentiary (Angola Prison),5/16/1974,Convicted,Medical Facility,Yes,15401,7/15/2016,Medical Condition,Kidney/Liver,liver disease
+Aaron Thomas,10/30/1956,Male,Black,59,Louisiana State Penitentiary (Angola Prison),2/10/1972,Convicted,Cell,Yes,16210,6/28/2016,Medical Condition,Heart,Heart Attack
+Natahan Hill,10/30/1956,Male,Black,59,Louisiana State Penitentiary (Angola Prison),2/6/1976,Convicted,Medical Facility,No,14848,10/1/2016,Medical Condition,Cancer,End Stage of stomach cancer
+Larry Hayes,1/3/1952,Male,Black,64,Louisiana State Penitentiary (Angola Prison),5/28/1987,Convicted,Medical Facility,Yes,10804,12/25/2016,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Joseph Rainey,9/23/1952,Male,Black,64,Louisiana State Penitentiary (Angola Prison),10/29/1997,Convicted,Medical Facility,Yes,6920,10/9/2016,Medical Condition,Cancer,Colorectal cancer
+Bradley Gramham,2/16/1953,Male,White,63,Dixon Correctional Institute - DOC,3/1/2002,Convicted,Medical Facility,No,5343,10/16/2016,Medical Condition,Kidney/Liver,Liver disease
+Ricky Jones,8/2/1963,Male,Black,53,Louisiana State Penitentiary (Angola Prison),9/13/1994,Convicted,Medical Facility,No,8115,12/1/2016,Medical Condition,Lungs,pneumonia and COPD
+Willie Smith,10/3/1951,Male,Black,64,Louisiana State Penitentiary (Angola Prison),2/3/2003,Convicted,Medical Facility,Yes,4964,9/6/2016,Medical Condition,Lungs,Chronic respiratory failure
+Calvin Mitchell,9/12/1948,Male,Black,67,Louisiana State Penitentiary (Angola Prison),10/20/1977,Convicted,Medical Facility,No,13998,2/16/2016,Medical Condition,Sepsis/Septic Shock,septic shock
+Donald Clark,9/3/1947,Male,Black,69,Louisiana State Penitentiary (Angola Prison),11/3/1978,Convicted,Cell,No,13819,9/3/2016,Medical Condition,Cancer,Cancer
+Nolan Lebanks,12/27/1961,Male,Black,54,Louisiana State Penitentiary (Angola Prison),11/26/1997,Convicted,Medical Facility,Yes,6621,1/12/2016,Medical Condition,Natural Causes,Natural expected/ chronic illness
+Charles Martin,8/2/1963,Male,Black,53,Dixon Correctional Institute - DOC,1/21/1980,Convicted,Medical Facility,Yes,13408,10/6/2016,Medical Condition,Heart,Natural unexpected acute event- cardiac arrest
+Melvin Johnson,8/2/1963,Male,Black,52,Louisiana State Penitentiary (Angola Prison),9/13/1994,Convicted,Medical Facility,No,7915,5/15/2016,Medical Condition,Heart & Lungs,cardiopulmonary arrest.
+Eddie Cannon,7/31/1962,Male,White,54,Raymond Laborde Correctional Center - DOC,7/7/2003,Convicted,Transit,No,4793,8/20/2016,Medical Condition,Heart & Lungs & Cancer,cardiopulmonary arrest secondary to neuroendocrine cancer
+Anthony Schaffer,5/11/1951,Male,Black,65,Dixon Correctional Institute - DOC,5/29/1984,Convicted,Medical Facility,Yes,11816,10/4/2016,Medical Condition,Brain,Eruption of aortic aneurysm
+Jerome Turner,11/4/1964,Male,Black,51,Dixon Correctional Institute - DOC,10/4/2013,Convicted,Medical Facility,Yes,837,1/19/2016,Medical Condition,Heart & Cancer,Cardiac arrest secondary to liver cancer
+Wayne Andrews,2/12/1960,Male,Black,56,Louisiana State Penitentiary (Angola Prison),9/27/1983,Convicted,Medical Facility,Yes,12019,8/23/2016,Medical Condition,Cancer,cancer
+Michael Foote,10/30/1945,Male,White,70,Elayn Hunt Correctional Center - DOC,5/4/1979,Convicted,Medical Facility,No,13624,8/21/2016,Medical Condition,Heart,Heart attack
+Cebren Stokes,1/29/1963,Male,Black,53,Louisiana State Penitentiary (Angola Prison),6/4/1993,Convicted,Medical Facility,Yes,8449,7/22/2016,Medical Condition,Heart & Lungs,cardiorespiratory failure due to complication
+Anthony Meeks,4/11/1961,Male,Black,55,Elayn Hunt Correctional Center - DOC,5/15/1998,Convicted,Medical Facility,No,6697,9/14/2016,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Darryl Laurendine,10/24/1948,Male,Black,68,Louisiana State Penitentiary (Angola Prison),11/10/1997,Convicted,Medical Facility,No,6979,12/19/2016,Medical Condition,Lungs,acute respiratory failure COPD severe
+John Turner,11/17/1965,Male,White,51,Elayn Hunt Correctional Center - DOC,3/29/2016,Convicted,Medical Facility,Yes,259,12/13/2016,Medical Condition,Heart,congestive heart failure
+Kenneth Leonard,3/23/1943,Male,White,72,Louisiana State Penitentiary (Angola Prison),1/22/1988,Convicted,Medical Facility,No,10262,2/26/2016,Medical Condition,AIDS,AIDS
+David Fleury,11/12/1946,Male,White,69,Louisiana State Penitentiary (Angola Prison),9/12/1986,Convicted,Medical Facility,No,10812,4/19/2016,Medical Condition,Heart,Heart attack
+William Anderson,2/24/1949,Male,Black,67,Elayn Hunt Correctional Center - DOC,5/5/1988,Convicted,Medical Facility,Yes,10400,10/25/2016,Medical Condition,Heart,"cardiac failure, multiple non-compliance, hypotension"
+Tommy Lacey,7/30/1951,Male,White,65,Louisiana State Penitentiary (Angola Prison),6/5/1985,Convicted,Medical Facility,No,11403,8/24/2016,Medical Condition,Cancer,Cancer
+Robert Howle,1/26/1945,Female,Black,71,Louisiana State Penitentiary (Angola Prison),2/22/1989,Convicted,Medical Facility,Yes,9927,4/28/2016,Medical Condition,Heart,heart attack
+Pernell Brown,12/31/1970,Male,Black,45,David Wade Correctional Center - DOC,7/19/1991,Convicted,Medical Facility,No,9105,6/22/2016,Medical Condition,Heart & Lungs,"Cardiopulmonary arrest, Respiratory failure"
+Dale Gaver,4/10/1946,Male,White,70,Dixon Correctional Institute - DOC,12/4/2008,Convicted,Medical Facility,No,2850,9/23/2016,Medical Condition,Cancer,cancer
+Herman Pierre,6/10/1969,Male,Black,47,Louisiana State Penitentiary (Angola Prison),11/5/2007,Convicted,Medical Facility,Yes,3255,10/3/2016,Medical Condition,Heart,heart attack
+Arthur Thompson,9/13/1949,Male,Black,67,Louisiana State Penitentiary (Angola Prison),10/9/1989,Convicted,Medical Facility,Yes,9926,12/12/2016,Medical Condition,Cancer,cancer
+Darrion Harris,7/26/1969,Male,Black,46,Louisiana State Penitentiary (Angola Prison),10/11/1995,Convicted,Medical Facility,No,7562,6/24/2016,Medical Condition,Heart,cardiac arrest
+Peter Sutherland,10/3/1962,Male,Black,54,Dixon Correctional Institute - DOC,10/16/2013,Convicted,Medical Facility,No,1152,12/11/2016,Medical Condition,Heart,cardiac arrest
+Lloyd McClanhan,5/12/1960,Male,White,55,Louisiana State Penitentiary (Angola Prison),5/8/1990,Convicted,Medical Facility,No,9496,5/7/2016,Medical Condition,Kidney/Liver,Liver Disease
+Joseph Hayes,10/9/1965,Male,Black,50,Allen Correctional Center,7/26/2010,Convicted,Cell,No,2088,4/13/2016,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Craig Jackson,2/18/1962,Male,Black,54,Elayn Hunt Correctional Center - DOC,12/16/2013,Convicted,Medical Facility,No,1004,9/15/2016,Medical Condition,Heart & Lungs,Cardiopulmonary arrest
+Wilbert Clark,10/1/1952,Male,Black,63,Dixon Correctional Institute - DOC,9/13/2007,Convicted,Medical Facility,Yes,3160,5/8/2016,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Derrick Lee,11/5/1968,Male,Black,47,Louisiana State Penitentiary (Angola Prison),8/16/2004,Convicted,Medical Facility,No,4175,1/21/2016,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Rickey Hills,7/23/1963,Male,Black,53,Louisiana State Penitentiary (Angola Prison),4/29/2009,Convicted,Medical Facility,No,2716,10/5/2016,Medical Condition,Lungs,End stage COPD
+Tommy Flot,10/27/1961,Male,Black,55,Elayn Hunt Correctional Center - DOC,2/5/2014,Convicted,Medical Facility,No,1033,12/4/2016,Medical Condition,Cancer,cancer
+Michael Broussard,6/13/1961,Male,White,55,Elayn Hunt Correctional Center - DOC,5/11/2009,Convicted,Medical Facility,Yes,2750,11/20/2016,Medical Condition,Heart,Heart attack
+Calvin Craddock,9/6/1966,Male,White,49,Louisiana State Penitentiary (Angola Prison),10/12/2006,Convicted,Cell,No,3460,4/2/2016,Suicide,Hanging,cardiopulmonary arrest secondary to hanging
+Richard Pena,12/7/1962,Male,White,53,Elayn Hunt Correctional Center - DOC,4/21/2008,Convicted,Medical Facility,No,2930,4/29/2016,Medical Condition,Cancer,Paincreatic cancer
+Jimmy Cox,1/10/1956,Male,White,60,David Wade Correctional Center - DOC,5/2/2014,Convicted,Medical Facility,Yes,629,1/21/2016,Medical Condition,Cancer,stage 4 lung cancer
+Donnie Tipton,6/10/1941,Male,White,74,Louisiana State Penitentiary (Angola Prison),3/6/1995,Convicted,Medical Facility,Yes,7739,5/13/2016,Medical Condition,Cancer,cancer
+Roderick Nelson,5/16/1968,Male,Black,48,Elayn Hunt Correctional Center - DOC,2/24/2010,Convicted,Medical Facility,Yes,2466,11/25/2016,Medical Condition,Cancer,cancer
+Ray Bingham,2/5/1961,Male,Black,55,Elayn Hunt Correctional Center - DOC,5/3/2005,Convicted,Medical Facility,No,4133,8/26/2016,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Bryan McCall,10/8/1970,Male,Black,45,Allen Correctional Center,6/18/2009,Convicted,Cell,Yes,2435,2/17/2016,Medical Condition,Cancer,cancer
+Mike Mire,12/8/1959,Male,Black,56,Elayn Hunt Correctional Center - DOC,5/1/1996,Convicted,Medical Facility,Yes,7369,7/4/2016,Medical Condition,Cancer,cancer
+Willie Parker,12/18/1963,Male,Black,52,Louisiana State Penitentiary (Angola Prison),5/1/1996,Convicted,Medical Facility,No,7465,10/8/2016,Medical Condition,Cancer,cancer
+Michael Bateman,4/19/1976,Male,White,40,Louisiana State Penitentiary (Angola Prison),1/13/2016,Convicted,Medical Facility,No,282,10/21/2016,Medical Condition,Heart,congestive heart failure
+James Casey,2/4/1961,Male,White,55,Louisiana State Penitentiary (Angola Prison),7/15/1998,Convicted,Medical Facility,No,6607,8/16/2016,Medical Condition,Kidney/Liver,cirrhosis
+Franklin Novak,7/20/1934,Male,White,82,Louisiana State Penitentiary (Angola Prison),3/15/1999,Convicted,Medical Facility,Yes,6412,10/3/2016,Medical Condition,Heart & Lungs,respiratory failure/ cardiac failure
+Rawleigh Miller,10/21/1954,Male,Black,61,Louisiana State Penitentiary (Angola Prison),10/30/2000,Convicted,Medical Facility,No,5633,4/2/2016,Medical Condition,Cancer,cancer
+Russell Kirkland,2/8/1980,Male,Black,36,Louisiana State Penitentiary (Angola Prison),9/30/1999,Convicted,Medical Facility,No,6191,9/11/2016,Medical Condition,Cancer,acute lukemia
+Kenneth Cotton,2/6/1979,Male,White,37,David Wade Correctional Center - DOC,5/8/2006,Convicted,Cell,No,3575,2/20/2016,Medical Condition,Kidney/Liver,liver disease
+Billy Smallwood,7/10/1930,Male,White,86,Elayn Hunt Correctional Center - DOC,4/15/2002,Convicted,Medical Facility,Yes,5342,11/29/2016,Medical Condition,Cancer,stage 4 lung cancer
+Alexander Smith,4/5/1956,Male,Black,60,Dixon Correctional Institute - DOC,8/23/2000,Convicted,Medical Facility,No,5922,11/9/2016,Medical Condition,Kidney/Liver,liver disease
+Donnie Wubker,10/28/1967,Male,White,49,Louisiana State Penitentiary (Angola Prison),4/10/2001,Convicted,Medical Facility,Yes,5736,12/23/2016,Medical Condition,Heart,heart attack
+Donald Simmons,6/21/1980,Male,Black,35,Allen Correctional Center,3/7/2001,Convicted,Cell,No,5516,4/13/2016,Medical Condition,Cancer,cancer
+Rickey Arvie,7/10/1975,Male,Black,41,Louisiana State Penitentiary (Angola Prison),6/17/2010,Convicted,Medical Facility,No,2265,8/29/2016,Medical Condition,Heart,heart attack
+John Chesson,8/9/1945,Male,White,71,Dixon Correctional Institute - DOC,10/30/2002,Convicted,Medical Facility,No,5170,12/25/2016,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Owen Lacombe,9/2/1954,Male,White,62,Raymond Laborde Correctional Center - DOC,8/19/2003,Convicted,Medical Facility,Yes,4832,11/10/2016,Medical Condition,Heart,heart attack
+Irvin Fricke,7/26/1935,Male,White,81,David Wade Correctional Center - DOC,10/28/2003,Convicted,Cell,Yes,4705,9/14/2016,Medical Condition,Heart & Lungs & Sepsis/Septic Shock,cardiopulmonary arrest secondary to septis
+Wendell Harrison,8/21/1963,Male,Black,53,Elayn Hunt Correctional Center - DOC,6/16/2005,Convicted,Medical Facility,No,4161,11/6/2016,Medical Condition,Heart & Lungs,cardio respiratory failure
+Daniel Richard,5/8/1976,Male,White,40,Elayn Hunt Correctional Center - DOC,10/15/2012,Convicted,Medical Facility,No,1384,7/30/2016,Medical Condition,Heart,cardiac arrest
+Willie Sigers,11/16/1940,Male,Black,75,Raymond Laborde Correctional Center - DOC,9/16/2009,Convicted,Medical Facility,Yes,2493,7/14/2016,Violence,Brain,subdural hematoma
+Samuel Jordan,5/30/1987,Male,Black,28,Louisiana State Penitentiary (Angola Prison),8/7/2012,Convicted,Medical Facility,No,1352,4/20/2016,Medical Condition,Heart,cardiac arrest
+Terrance Carter,7/11/1979,Male,Black,36,Louisiana State Penitentiary (Angola Prison),10/6/2009,Convicted,Cell,No,2370,4/2/2016,Suicide,Hanging,asphyxia due to hanging
+Ervin Armstrong,9/12/1987,Male,Black,28,Allen Correctional Center,2/25/2009,Convicted,Cell,No,2588,3/28/2016,Suicide,Unknown,suicide
+Stevens Hardy,2/12/1949,Male,White,67,Louisiana State Penitentiary (Angola Prison),12/11/2009,Convicted,Medical Facility,No,2305,4/3/2016,Medical Condition,Heart,heart attack
+Byron Davis,12/30/1961,Male,Black,54,Louisiana State Penitentiary (Angola Prison),6/18/2010,Convicted,Medical Facility,No,2350,11/23/2016,Medical Condition,Lungs,pulmonary embolism
+Terrance Goudeau,11/11/1991,Male,Black,24,David Wade Correctional Center - DOC,3/21/2012,Convicted,Segregation,No,1544,6/12/2016,Suicide,Hanging,hanging
+David Cobb,10/21/1954,Male,White,61,Raymond Laborde Correctional Center - DOC,12/6/2011,Convicted,Medical Facility,No,1746,9/16/2016,Medical Condition,Heart,heart attack
+Mary Norton,7/27/1961,Female,Black,54,Lousiana Correctional Institute for Women - DOC,1/14/2013,Convicted,Medical Facility,No,1100,1/19/2016,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Brandon Wilson,3/22/1992,Male,Black,24,Louisiana State Penitentiary (Angola Prison),9/20/2012,Convicted,Medical Facility,No,1379,6/30/2016,Suicide,Hanging,asphyxia by hanging
+Danny Granstaff,5/14/1958,Male,White,58,Raymond Laborde Correctional Center - DOC,7/11/2013,Convicted,Medical Facility,Yes,1179,10/2/2016,Medical Condition,Heart,heart attack
+Dwaane Moore,3/11/1976,Male,Black,40,Louisiana State Penitentiary (Angola Prison),1/28/2015,Convicted,Medical Facility,Yes,569,8/19/2016,Medical Condition,Heart,heart attack
+Lewis Reddick,11/10/1949,Male,Black,66,Elayn Hunt Correctional Center - DOC,7/16/2013,Convicted,Medical Facility,Yes,1191,10/19/2016,Medical Condition,Heart,acute cardiac event
+Jerry Clifton,6/14/1937,Male,White,79,Allen Correctional Center,5/13/2014,Convicted,Transit,Yes,798,7/19/2016,Medical Condition,Cancer,cancer
+Bruce Richardson,9/26/1951,Male,Black,65,Raymond Laborde Correctional Center - DOC,5/20/2014,Convicted,Medical Facility,No,944,12/19/2016,Accident,Brain & Lungs & Seizures,respiratory failure secondary to intracranial hemorrhage and seizures
+Robert Ipavec,3/8/1972,Male,White,44,Dixon Correctional Institute - DOC,11/18/2014,Convicted,Medical Facility,No,598,7/8/2016,Medical Condition,Heart,heart attack
+Richard Thomas,9/11/1957,Male,White,58,Elayn Hunt Correctional Center - DOC,3/24/2015,Convicted,Medical Facility,Yes,510,8/15/2016,Medical Condition,Heart,heart attack
+Floyd Augustine,8/23/1958,Male,Black,57,Elayn Hunt Correctional Center - DOC,12/20/1984,Convicted,Medical Facility,No,11562,8/16/2016,Medical Condition,Cancer,cancer
+Jesse Zinamon,3/5/1959,Male,Black,57,Raymond Laborde Correctional Center - DOC,12/20/1984,Convicted,Medical Facility,No,11398,3/5/2016,Medical Condition,Cancer,cancer
+Flanders Taylor,2/25/1956,Male,Black,60,David Wade Correctional Center - DOC,1/27/1983,Convicted,Medical Facility,Yes,12300,9/30/2016,Medical Condition,Cancer,cancer
+Darryl Boutte,7/31/1959,Male,Black,56,Louisiana State Penitentiary (Angola Prison),5/29/1984,Convicted,Medical Facility,No,11572,2/3/2016,Medical Condition,Cancer,cancer
+Winford Moore,7/14/1946,Male,Black,69,Louisiana State Penitentiary (Angola Prison),12/12/2012,Convicted,Medical Facility,No,1159,2/14/2016,Medical Condition,Kidney/Liver,liver disease
+Jawaski Sam,10/24/1993,Male,Black,22,Louisiana State Penitentiary (Angola Prison),6/19/2014,Convicted,Medical Facility,Yes,613,2/22/2016,Medical Condition,AIDS,AIDS
+Willie Richardson,3/24/1946,Male,Black,69,Louisiana State Penitentiary (Angola Prison),3/24/1964,Convicted,Medical Facility,Yes,18986,3/17/2016,Medical Condition,Heart,heart attack
+Ricky Nicholas,11/22/1959,Male,Black,56,Louisiana State Penitentiary (Angola Prison),10/28/1983,Convicted,Medical Facility,Yes,11971,8/6/2016,Medical Condition,Lungs,respiratory arrest
+Danny Morrison,7/11/1957,Male,White,58,Louisiana State Penitentiary (Angola Prison),5/11/1998,Convicted,Medical Facility,Yes,6475,2/1/2016,Medical Condition,Seizure,seizure due to remote traumatic brain injury
+Jack Obney,5/31/1942,Male,White,74,Louisiana State Penitentiary (Angola Prison),3/6/1986,Convicted,Medical Facility,Yes,11139,9/3/2016,Medical Condition,Lungs,respiratory failure
+Wallace Michael,6/26/1964,Male,White,51,Louisiana State Penitentiary (Angola Prison),1/11/2005,Convicted,Medical Facility,Yes,4081,3/15/2016,Medical Condition,Cancer,cancer
+Lionel Parks,1/28/1940,Male,White,76,Louisiana State Penitentiary (Angola Prison),5/27/1988,Convicted,Medical Facility,Yes,10203,5/3/2016,Medical Condition,Lungs,acute hypoxia respiratory failure
+Isaac Brazil,7/22/1950,Male,Black,66,Dixon Correctional Institute - DOC,12/5/1988,Convicted,Medical Facility,No,10164,10/3/2016,Medical Condition,Cancer,cancer
+John Williams,2/7/1958,Male,Black,58,Louisiana State Penitentiary (Angola Prison),4/10/1978,Convicted,Medical Facility,Yes,13997,8/5/2016,Medical Condition,Blood,sickle cell anemia
+Gregory Jones,11/19/1987,Male,Black,28,Concordia Correctional Facility,5/19/2011,Convicted,Transit,No,1782,4/4/2016,Medical Condition,Brain,intracranial bleed
+Barbara Legendre,8/19/1969,Female,White,46,Concordia Correctional Facility,5/26/2015,Convicted,Unknown,No,286,3/7/2016,Medical Condition,Cancer,larynx cancer
+Terry Greer,7/17/1958,Male,White,58,Other,12/7/2015,Convicted,Transit,No,357,11/28/2016,Medical Condition,Blood,shock secondary to hemolytic anemia
+Paul Goodbeer,11/13/1948,Male,Black,68,Winn Correctional Center,3/17/1992,Convicted,Cell,No,9050,12/26/2016,Medical Condition,Cancer,cancer
+Allen Wall,8/16/1951,Male,White,66,David Wade Correctional Center - DOC,11/15/2013,Convicted,Medical Facility,Yes,1560,2/22/2018,Medical Condition,Heart,heart attack
+Dewey Stoufflet,2/27/1957,Male,White,60,David Wade Correctional Center - DOC,1/30/1989,Convicted,Medical Facility,No,10599,2/6/2018,Medical Condition,Lungs,end stage COPD
+Robert Bienvenu,6/2/1952,Male,White,65,Elayn Hunt Correctional Center - DOC,4/22/2014,Convicted,Medical Facility,No,1360,1/11/2018,Medical Condition,Heart & Lungs,cardiorespiratory failure due to exacerbation
+James Fetterly,11/30/1947,Male,White,70,Elayn Hunt Correctional Center - DOC,4/27/1989,Convicted,Medical Facility,Yes,10492,1/17/2018,Medical Condition,Cancer,cancer
+Azell Fisher,9/11/1953,Male,Black,64,Elayn Hunt Correctional Center - DOC,5/6/2003,Convicted,Medical Facility,Yes,5370,1/17/2018,Medical Condition,Heart,heart attack
+William Lilly,6/30/1954,Male,White,63,Elayn Hunt Correctional Center - DOC,10/12/2011,Convicted,Medical Facility,No,2315,2/12/2018,Medical Condition,Heart,heart attack
+Eric Smith,3/31/1968,Male,Black,49,Elayn Hunt Correctional Center - DOC,10/14/2003,Convicted,Cell,No,5247,2/24/2018,Medical Condition,Heart,Cardiac failure
+Charles Bergeron,3/12/1932,Male,White,85,Elayn Hunt Correctional Center - DOC,4/11/2012,Convicted,Medical Facility,No,2146,2/25/2018,Medical Condition,Lungs,Pneumonia/resp. failure
+Robert Miles,1/14/1965,Male,Black,53,Elayn Hunt Correctional Center - DOC,4/11/2013,Convicted,Medical Facility,No,1797,3/13/2018,Medical Condition,Heart,heart attack
+Billy Hart,2/10/1968,Male,White,50,Elayn Hunt Correctional Center - DOC,11/16/2017,Convicted,Medical Facility,Yes,120,3/16/2018,Medical Condition,Lungs,pulmonary thromboembolism
+Frederick Lyons,4/8/1960,Male,Black,57,Elayn Hunt Correctional Center - DOC,6/20/1983,Convicted,Medical Facility,Yes,12692,3/20/2018,Medical Condition,Heart,Heart attack
+Harry Roberts,11/8/1954,Male,Black,63,Louisiana State Penitentiary (Angola Prison),9/19/1974,Convicted,Medical Facility,No,15820,1/11/2018,Medical Condition,Cancer,Cancer
+Alvin Redic,10/26/1946,Male,Black,71,Louisiana State Penitentiary (Angola Prison),4/13/1981,Convicted,Medical Facility,No,13423,1/12/2018,Medical Condition,Brain,acute encephalopathy
+Bruce Barksdale,5/23/1935,Male,Black,78,Louisiana State Penitentiary (Angola Prison),1/10/1975,Convicted,Medical Facility,Yes,14255,1/20/2014,Medical Condition,Heart & Lungs,cardiac respiratory arrest
+Sugar Lewis,9/13/1956,Male,Black,61,Louisiana State Penitentiary (Angola Prison),3/28/2000,Convicted,Medical Facility,Yes,6508,1/21/2018,Medical Condition,Kidney/Liver,Liver disease
+Victor Larocca,11/13/1965,Male,White,52,Louisiana State Penitentiary (Angola Prison),9/9/2013,Convicted,Medical Facility,Yes,1606,2/1/2018,Medical Condition,Sepsis/Septic Shock,sepsis
+Grady Brewer,11/13/1965,Male,White,52,Louisiana State Penitentiary (Angola Prison),10/27/1972,Convicted,Medical Facility,Yes,16538,2/6/2018,Medical Condition,Lungs,Marked pulmonary edema
+Charlie Finley,3/26/1926,Male,Black,91,Louisiana State Penitentiary (Angola Prison),9/11/2001,Convicted,Medical Facility,Yes,5996,2/10/2018,Medical Condition,Heart,heart attack
+Gumarus Everett,7/4/1981,Male,Black,36,Louisiana State Penitentiary (Angola Prison),12/17/2001,Convicted,Work,No,5901,2/12/2018,Medical Condition,Cancer,cancer
+Clarence Wilkerson,12/18/1934,Male,White,83,Louisiana State Penitentiary (Angola Prison),10/25/1970,Convicted,Medical Facility,No,17278,2/13/2018,Medical Condition,Lungs,respiratory failure secondary
+Carl Smith,12/18/1934,Male,White,83,Louisiana State Penitentiary (Angola Prison),10/28/1988,Convicted,Medical Facility,Yes,10706,2/19/2018,Medical Condition,Heart,cardiac arrest
+Steven Drew,10/13/1958,Male,Black,59,Louisiana State Penitentiary (Angola Prison),7/17/1978,Convicted,Medical Facility,No,14470,2/27/2018,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Michael Jack,12/19/1967,Male,Black,50,Louisiana State Penitentiary (Angola Prison),1/1/2018,Convicted,Cell,No,59,3/1/2018,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Franklin Motley,12/18/1964,Male,White,53,Louisiana State Penitentiary (Angola Prison),5/24/2004,Convicted,Medical Facility,No,5231,9/19/2018,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Vandyke Melinie,8/14/1946,Male,White,71,Louisiana State Penitentiary (Angola Prison),3/27/1989,Convicted,Medical Facility,Yes,10587,3/22/2018,Medical Condition,Kidney & Liver,Liver and Renal failure
+Joseph Dodgen,9/23/1978,Male,White,39,Louisiana State Penitentiary (Angola Prison),9/21/2015,Convicted,Medical Facility,No,911,3/20/2018,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Herbert Carver,11/14/1955,Male,White,62,Raymond Laborde Correctional Center - DOC,6/30/2015,Convicted,Medical Facility,Yes,923,1/8/2018,Medical Condition,Heart & Lungs,cardiopulmonary arrest due to age
+Toby Landry,11/11/1975,Male,White,42,Raymond Laborde Correctional Center - DOC,1/1/2018,Convicted,Medical Facility,No,63,3/5/2018,Medical Condition,Heart & Lungs,cardiopulmonary arrest as a result of brain
+Allen Davidson,2/13/1950,Male,White,68,Avoyelles Parish Simmsport Detention,11/15/2013,Convicted,Medical Facility,Yes,1584,3/18/2018,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Simpson Wright,10/27/1956,Male,Black,61,Raymond Laborde Correctional Center - DOC,1/1/2017,Convicted,Medical Facility,No,534,6/19/2018,Medical Condition,Heart,Cardiac Arrest
+Marvin Dixon,3/23/1951,Male,Black,67,Raymond Laborde Correctional Center - DOC,2/8/2016,Convicted,Medical Facility,No,877,7/4/2018,Medical Condition,Heart,cardiac arrest
+Richard Turks,12/10/1952,Male,White,65,Raymond Laborde Correctional Center - DOC,7/7/2016,Convicted,Medical Facility,No,752,7/29/2018,Medical Condition,Lungs,respiratory failure
+Ernest Carter,4/28/1944,Male,Black,73,Dixon Correctional Institute - DOC,7/22/2014,Convicted,Medical Facility,Yes,1312,2/23/2018,Medical Condition,Heart,cardiac arrest
+Patrick Silas,2/11/1975,Male,Black,43,Raymond Laborde Correctional Center - DOC,3/28/2006,Convicted,Medical Facility,Yes,4391,4/5/2018,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+James Tanner,8/19/1949,Male,Black,68,Raymond Laborde Correctional Center - DOC,2/21/1996,Convicted,Medical Facility,Yes,8111,5/7/2018,Medical Condition,Cancer,Cancer
+David Weyshan,9/10/1975,Male,Black,42,Raymond Laborde Correctional Center - DOC,10/27/2015,Convicted,Medical Facility,Yes,961,6/14/2018,Medical Condition,Kidney/Liver,liver disease
+Eli Guillory,3/24/1953,Male,Black,65,Raymond Laborde Correctional Center - DOC,12/28/1977,Convicted,Medical Facility,Yes,14781,6/17/2018,Medical Condition,Heart,heart attack
+Lawrence Aaron,10/14/1974,Male,Black,43,Dixon Correctional Institute - DOC,8/19/2009,Convicted,Medical Facility,Yes,3233,6/26/2018,Medical Condition,Heart,heart attack
+Harlan Stockman,12/14/1953,Male,White,64,Raymond Laborde Correctional Center - DOC,2/4/2008,Convicted,Segregation,No,3797,6/28/2018,Medical Condition,Blood,exsanguination into peritoneal cavity
+Albert Harrel,3/1/1959,Male,White,59,David Wade Correctional Center - DOC,4/10/2017,Convicted,Medical Facility,No,448,7/2/2018,Medical Condition,Cancer,cancer
+Torre Huber,3/11/1969,Male,White,49,David Wade Correctional Center - DOC,7/3/2013,Convicted,Cell,No,1845,7/22/2018,Medical Condition,Cancer,cancer
+Elijah Murray,1/19/1960,Male,Black,58,Elayn Hunt Correctional Center - DOC,12/9/2015,Convicted,Medical Facility,Yes,877,5/4/2018,Medical Condition,Cancer,cancer
+Robert Spann,3/2/1931,Male,Black,87,Elayn Hunt Correctional Center - DOC,8/21/1974,Convicted,Medical Facility,Yes,15965,5/7/2018,Medical Condition,Heart,heart attack
+Michael Williams,1/19/1962,Male,Black,56,Elayn Hunt Correctional Center - DOC,4/23/2001,Convicted,Medical Facility,No,6228,5/12/2018,Medical Condition,Heart,heart attack
+Alvin Shannon,1/17/1942,Male,Black,76,Elayn Hunt Correctional Center - DOC,2/4/1987,Convicted,Medical Facility,No,11423,5/15/2018,Medical Condition,Heart,heart attack
+William Rose,1/7/1953,Male,White,65,Elayn Hunt Correctional Center - DOC,9/7/2016,Convicted,Medical Facility,Yes,625,5/25/2018,Medical Condition,Cancer,cancer
+Martin Mercadel,7/15/1955,Male,Black,62,Elayn Hunt Correctional Center - DOC,1/11/2013,Convicted,Medical Facility,Yes,1961,5/26/2018,Medical Condition,Heart,heart attack
+Harold Hill,5/22/1943,Male,Black,75,Elayn Hunt Correctional Center - DOC,2/25/1981,Convicted,Medical Facility,No,13615,6/6/2018,Medical Condition,Heart,heart attack
+Charles Green,1/27/1945,Male,Black,73,Elayn Hunt Correctional Center - DOC,9/24/1986,Convicted,Medical Facility,No,11598,6/26/2018,Medical Condition,Heart & Lungs,cardiovascular disease and COPD
+Merlin Encalade,1/18/1961,Male,Black,57,Elayn Hunt Correctional Center - DOC,2/27/2013,Convicted,Medical Facility,No,1951,7/2/2018,Medical Condition,Lungs,COPD as well as being overweight
+Michael Fish,12/28/1955,Male,White,62,Elayn Hunt Correctional Center - DOC,4/19/2001,Convicted,Medical Facility,Yes,6307,7/26/2018,Medical Condition,Organ Failure,enlarged prostate nodular
+Jimmy Richard,6/23/1969,Male,White,49,Elayn Hunt Correctional Center - DOC,7/16/2009,Convicted,Medical Facility,No,3299,7/28/2018,Medical Condition,Heart,"cardiac arrest, cellulitis of the leg"
+Ethel Lambertus,5/24/1936,Female,White,82,Lousiana Correctional Institute for Women - DOC,2/3/1984,Convicted,Medical Facility,Yes,12538,6/2/2018,Medical Condition,Cancer,end stage of prostate cancer
+James Reynolds,7/1/1967,Male,Black,50,Louisiana State Penitentiary (Angola Prison),4/27/1987,Convicted,Medical Facility,Yes,11299,4/3/2018,Medical Condition,Cancer,cancer
+Jay Victorian,11/8/1945,Male,Black,72,Louisiana State Penitentiary (Angola Prison),8/24/2015,Convicted,Medical Facility,Yes,964,4/14/2018,Medical Condition,Heart,cardiac failure
+Terrance Benoit,8/6/1932,Male,White,85,Louisiana State Penitentiary (Angola Prison),1/25/2018,Convicted,Medical Facility,Yes,80,4/15/2018,Medical Condition,Lungs,respiratory failure
+Kendrick Thorne,1/19/1979,Male,Black,39,Louisiana State Penitentiary (Angola Prison),9/30/2002,Convicted,Medical Facility,No,5678,4/17/2018,Medical Condition,Cancer,metazoic cancer gallbladder
+Kenneth Freeman,11/23/1968,Male,White,49,Louisiana State Penitentiary (Angola Prison),2/27/2006,Convicted,Medical Facility,No,4452,5/7/2018,Medical Condition,Cancer,cancer
+Eric Carlson,10/16/1976,Male,Black,41,Louisiana State Penitentiary (Angola Prison),7/31/2017,Convicted,Medical Facility,No,284,5/11/2018,Medical Condition,Cancer,cancer
+Joseph Hammond,12/13/1966,Male,Black,51,Louisiana State Penitentiary (Angola Prison),5/2/2000,Convicted,Medical Facility,No,6597,5/25/2018,Medical Condition,Kidney/Liver,multiple co-morbidities/liver disease
+Dean Hue,5/3/1979,Male,White,39,Louisiana State Penitentiary (Angola Prison),5/3/2012,Convicted,Medical Facility,No,2224,6/5/2018,Drugs,Overdose/Intoxication,fentanyl intoxication
+Kristopher Schoening,2/2/1980,Male,White,38,Louisiana State Penitentiary (Angola Prison),3/20/2000,Convicted,Medical Facility,No,6651,6/5/2018,Accident,Assault,Blunt impact trauma brain injury
+Leotis Webster,7/16/1952,Male,Black,65,Louisiana State Penitentiary (Angola Prison),11/4/1971,Convicted,Medical Facility,No,17045,7/5/2018,Medical Condition,Cancer,end stage lung cancer
+Milton Traylor,10/19/1951,Male,Black,66,Louisiana State Penitentiary (Angola Prison),11/4/1971,Convicted,Medical Facility,No,17048,7/8/2018,Medical Condition,Heart,sudden cardiac arrest
+Donald Williams,11/18/1962,Male,Black,55,Louisiana State Penitentiary (Angola Prison),7/6/1987,Convicted,Medical Facility,No,11326,7/9/2018,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Daniel Beach,1/23/1955,Male,White,63,Louisiana State Penitentiary (Angola Prison),7/29/1974,Convicted,Medical Facility,No,16059,7/17/2018,Medical Condition,Heart,heart attack
+Kenneth Lacoste,2/17/1976,Male,Black,42,Louisiana State Penitentiary (Angola Prison),7/16/2013,Convicted,Medical Facility,No,1828,7/18/2018,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+John Hatfield,6/4/1987,Male,White,31,Louisiana State Penitentiary (Angola Prison),5/2/2016,Convicted,Medical Facility,No,807,7/18/2018,Suicide,Brain Injury,anoxic brain injury
+James Dickerson,12/17/1954,Male,White,63,Louisiana State Penitentiary (Angola Prison),5/1/2006,Convicted,Medical Facility,No,4470,7/27/2018,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Lee Matthews,1/10/1936,Male,Black,82,Louisiana State Penitentiary (Angola Prison),3/31/1986,Convicted,Medical Facility,No,11806,7/27/2018,Medical Condition,Heart,hypoxic ischemic encephalopathy
+Clint Brenckle,10/23/1961,Male,White,56,B.B. Rayburn Correctional Center - DOC,4/8/2014,Convicted,Medical Facility,Yes,1564,7/20/2018,Medical Condition,Lungs,respiratory failure
+Tyrone Jackson,11/11/1971,Male,Black,46,Louisiana State Penitentiary (Angola Prison),4/25/1995,Convicted,Medical Facility,No,8511,8/13/2018,Medical Condition,Cancer,cancer
+Dolan Franklin,8/29/1960,Male,Black,57,Louisiana State Penitentiary (Angola Prison),6/29/1993,Convicted,Cell,No,9182,8/19/2018,Violence,Homicide,homicide.
+Ray Landry,3/13/1949,Male,White,69,Louisiana State Penitentiary (Angola Prison),1/26/1979,Convicted,Medical Facility,No,14451,8/20/2018,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+David Spears,10/10/1964,Male,White,53,Allen Correctional Center,12/11/2017,Convicted,Cell,No,270,9/7/2018,Medical Condition,Lungs,respiratory arrest
+Reginald Steib,8/12/1958,Male,Black,60,Elayn Hunt Correctional Center - DOC,8/6/2018,Convicted,Medical Facility,Yes,42,9/17/2018,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Jerome Oubre,10/22/1962,Male,Black,55,Elayn Hunt Correctional Center - DOC,8/15/2008,Convicted,Medical Facility,Yes,3693,9/25/2018,Medical Condition,Heart,cardiac arrest
+Christopher Johnson,5/6/1967,Male,Black,51,Louisiana State Penitentiary (Angola Prison),6/14/2015,Convicted,Medical Facility,No,1192,9/18/2018,Medical Condition,Heart,cardiac arrest
+John Burgess,8/15/1958,Male,White,60,David Wade Correctional Center - DOC,10/9/2017,Convicted,Medical Facility,No,365,10/9/2018,Medical Condition,Cancer,cancer
+Jerry Brown,5/12/1965,Male,Black,53,Elayn Hunt Correctional Center - DOC,7/30/2018,Convicted,Medical Facility,Yes,61,9/29/2018,Medical Condition,Heart,cardiac arrest
+Wilbert Green,12/7/1955,Male,Black,64,Elayn Hunt Correctional Center - DOC,10/22/2002,Convicted,Medical Facility,Yes,6570,10/17/2020,Medical Condition,Heart,cardiac arrest
+Daniel Floyd,6/30/1952,Male,White,66,Louisiana State Penitentiary (Angola Prison),12/4/1989,Convicted,Medical Facility,No,10532,10/5/2018,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Felix Ferinando,6/21/1935,Male,Black,83,Louisiana State Penitentiary (Angola Prison),3/23/1987,Convicted,Medical Facility,No,11523,10/9/2018,Medical Condition,Blood,hemorrhagic shock
+Robin Polk,12/1/1952,Male,Black,65,Louisiana State Penitentiary (Angola Prison),12/21/1981,Convicted,Medical Facility,No,13443,10/11/2018,Medical Condition,Heart,cardio vascular disease
+Timothy Bazile,8/31/1968,Male,Black,50,Louisiana State Penitentiary (Angola Prison),10/5/2015,Convicted,Medical Facility,No,1106,10/15/2018,Medical Condition,Heart,cardiac arrest due to cariogenic shock
+Calvin Rose,8/4/1955,Male,Black,63,Louisiana State Penitentiary (Angola Prison),5/23/1988,Convicted,Medical Facility,No,11105,10/18/2018,Medical Condition,Kidney/Liver,liver disease
+Derrick Williams,7/21/1972,Male,Black,46,Louisiana State Penitentiary (Angola Prison),7/22/1997,Convicted,Cell,No,7760,10/20/2018,Medical Condition,Heart,stroke
+Jerry Berry,10/23/1952,Male,Black,65,Louisiana State Penitentiary (Angola Prison),6/12/1995,Convicted,Medical Facility,No,8531,10/20/2018,Medical Condition,Cancer,cancer
+Jack Mozer,7/21/1933,Male,White,85,Louisiana State Penitentiary (Angola Prison),7/11/2018,Convicted,Cell,Yes,100,10/19/2018,Medical Condition,Heart & Lungs,cardiorespiratory failure
+Everett Thornton,1/19/1957,Male,White,61,Dixon Correctional Institute - DOC,5/16/2018,Convicted,Medical Facility,Yes,162,10/25/2018,Medical Condition,Blood,hyperten
+David Ammons,8/27/1958,Male,White,60,David Wade Correctional Center - DOC,4/18/2018,Convicted,Medical Facility,No,189,10/24/2018,Medical Condition,Cancer,pancreatic cancer
+Robert Melancon,1/25/1936,Male,White,82,David Wade Correctional Center - DOC,8/12/1996,Convicted,Medical Facility,No,8120,11/5/2018,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Brandon Ruffin,1/19/1990,Male,Black,29,David Wade Correctional Center - DOC,9/17/2010,Convicted,Medical Facility,No,3352,11/21/2019,Medical Condition,Cancer,hepatobiliary cancer
+Howard Rapp,10/18/1948,Male,White,72,David Wade Correctional Center - DOC,11/21/1968,Convicted,Medical Facility,No,18960,10/19/2020,Medical Condition,Heart,cardiac arrest
+Theodore Carr,7/22/1944,Male,Black,74,Louisiana State Penitentiary (Angola Prison),1/21/1985,Convicted,Medical Facility,No,12330,10/25/2018,Medical Condition,Cancer,Lung cancer
+Lionel Bonner,3/24/1956,Male,Black,62,Louisiana State Penitentiary (Angola Prison),3/27/2007,Convicted,Medical Facility,No,4252,11/16/2018,Medical Condition,Brain & Lungs,pulmonary embolism and cardiac arrest
+Lawrence Harrison,2/23/1953,Male,Black,65,Louisiana State Penitentiary (Angola Prison),7/16/2007,Convicted,Medical Facility,Yes,4144,11/19/2018,Medical Condition,Sepsis/Septic Shock,sepsis
+Gissiander Wright,6/25/1949,Male,Black,69,Raymond Laborde Correctional Center - DOC,9/24/2013,Convicted,Medical Facility,No,1857,10/25/2018,Medical Condition,Heart & Lungs,cardio pulmonary arrest
+Robert Fuller,9/15/1978,Male,Black,40,Dixon Correctional Institute - DOC,12/7/2015,Convicted,Medical Facility,Yes,1092,12/3/2018,Medical Condition,Cancer,cancer
+Tommy Fransise,7/6/1955,Male,White,63,Elayn Hunt Correctional Center - DOC,11/28/2018,Convicted,Medical Facility,Yes,4,12/2/2018,Medical Condition,Stomach/Intestine,diverticular disease
+Joseph Savoy,11/7/1965,Male,Black,53,Elayn Hunt Correctional Center - DOC,8/11/2011,Convicted,Cell,No,2671,12/3/2018,Medical Condition,Brain,large volume subarachnoid hemorrhage
+David Sharp,4/22/1947,Male,White,71,Elayn Hunt Correctional Center - DOC,10/27/1993,Convicted,Medical Facility,Yes,9187,12/22/2018,Medical Condition,Heart,heart attack
+William Baker,12/6/1955,Male,White,63,Louisiana State Penitentiary (Angola Prison),3/25/1980,Convicted,Medical Facility,No,14135,12/6/2018,Medical Condition,Sepsis/Septic Shock,sepsis with organ disfunction
+Michael Brown,3/15/1954,Male,Black,64,Louisiana State Penitentiary (Angola Prison),7/15/1997,Convicted,Medical Facility,No,7831,12/23/2018,Medical Condition,Brain,"anoxic brain injury, intracranial hemorrhage"
+Rodney Eaker,11/27/1948,Male,White,70,Louisiana State Penitentiary (Angola Prison),6/2/1980,Convicted,Medical Facility,No,14091,12/31/2018,Medical Condition,Lungs,ARDS (respiratory distress syndrome)
+Bobby Freeman,11/25/1946,Male,Black,71,Elayn Hunt Correctional Center - DOC,5/14/1997,Convicted,Medical Facility,Yes,7638,4/12/2018,Medical Condition,Heart & Kidney/Liver,acute liver failure with cardiovascular
+Kernell Howard,12/11/1959,Male,Black,58,Dixon Correctional Institute - DOC,4/20/2010,Convicted,Medical Facility,Yes,3137,11/21/2018,Medical Condition,Brain,bacterial endocarditis
+Gary Landry,9/15/1953,Male,Black,64,Elayn Hunt Correctional Center - DOC,5/28/1993,Convicted,Medical Facility,Yes,9102,4/29/2018,Medical Condition,Cancer,cancer
+Leonard Matthews,12/12/1967,Male,Black,50,Elayn Hunt Correctional Center - DOC,8/15/2017,Convicted,Medical Facility,Yes,236,4/8/2018,Medical Condition,Heart & Seizure,"seizure, cardiac arrest"
+Elijah Brooks,12/10/1963,Male,Black,54,Raymond Laborde Correctional Center - DOC,3/16/2017,Convicted,Medical Facility,Yes,586,10/23/2018,Medical Condition,Kidney/Liver,liver disease
+Karolina Glover,9/18/1935,Female,White,83,Lousiana Correctional Institute for Women - DOC,4/19/2010,Convicted,Medical Facility,Yes,3175,12/28/2018,Medical Condition,Heart,cardiac arrest
+Joseph Ballay,7/19/1949,Male,White,68,Plaquemines Parish Detention Center,10/14/2016,Convicted,Medical Facility,No,514,3/12/2018,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Christopher Brantley,8/9/1965,Male,Black,53,Lincoln Parish Detention Center,2/18/2010,Convicted,Medical Facility,No,3117,9/1/2018,Medical Condition,Lungs,respiratory failure
+Corey Cleveland,12/2/1967,Male,White,50,St. Helena Parish Jail,7/18/2018,Convicted,Cell,No,35,8/22/2018,Drugs,Overdose/Intoxication,overdose
+Christopher Yates,7/3/1977,Male,White,41,LaSalle Corrections Center,2/6/2018,Convicted,Cell,No,147,7/3/2018,Medical Condition,Lungs,pneumonia leading to acute on chronic respiratory
+Cortez Williams,1/18/1988,Male,Black,30,Jackson Parish Correctional Center - LaSalle,8/20/2018,Convicted,Cell,No,1,8/21/2018,Medical Condition,Kidney/Liver,liver disease
+Eric Weber,6/8/1967,Male,Black,51,River Correctional Center - LaSalle,5/22/2018,Convicted,Medical Facility,No,28,6/19/2018,Medical Condition,Heart,cardiac arrest
+James Pendelton,12/19/1962,Male,Black,55,Madison Parish Correctional Center & Work Release Facility,6/15/2018,Convicted,Cell,No,54,8/8/2018,Medical Condition,Cancer,cancer
+Arlington Pailet,10/26/1960,Male,Black,58,River Correctional Center - LaSalle,8/17/2018,Convicted,Medical Facility,No,86,11/11/2018,Medical Condition,Heart,heart attack
+Urie Ledet,10/11/1986,Male,White,32,Riverbend Detention Center,10/12/2017,Convicted,Medical Facility,No,409,11/25/2018,Suicide,Hanging,suicide by hanging
+Joplin Graham,6/25/1978,Male,Black,40,Catahoula Correctional Center - LaSalle,9/28/2018,Convicted,Medical Facility,No,25,10/23/2018,Medical Condition,Heart,cardiac arrest
+Barry Gilmore,8/12/1960,Male,White,57,Ouachita Correctional Center,8/26/2015,Convicted,Medical Facility,No,1017,6/8/2018,Medical Condition,Medical,post hernia surgery complications
+Kenneth George,8/12/1960,Male,White,57,Ouachita Correctional Center,8/26/2015,Convicted,Medical Facility,No,1017,6/8/2018,Medical Condition,Heart,heart attack
+Ronnie Francois,12/8/1967,Male,White,50,Livingston Parish Transitional Work Program,10/1/2018,Convicted,Work,No,10,10/11/2018,Accident,Self,"accidental injury to self ""na"""
+John Dupre,10/23/1957,Male,White,60,River Correctional Center - LaSalle,7/30/2018,Convicted,Medical Facility,No,26,8/25/2018,Medical Condition,Heart,heart attack
+Donald Mays,5/30/1960,Male,Black,56,Raymond Laborde Correctional Center - DOC,5/3/2006,Convicted,Medical Facility,No,3992,4/7/2017,Accident,Medical,choking
+Larry Tassin,6/22/1956,Male,White,60,Raymond Laborde Correctional Center - DOC,5/18/2001,Convicted,Medical Facility,No,5731,1/25/2017,Medical Condition,Heart,heart attack
+Lloyd Coats,12/29/1957,Male,White,59,Raymond Laborde Correctional Center - DOC,8/11/2014,Convicted,Medical Facility,No,979,4/16/2017,Medical Condition,Heart,heart attack
+Tyrone Lacking,5/24/1986,Male,Black,31,Raymond Laborde Correctional Center - DOC,6/16/2016,Convicted,Medical Facility,No,363,6/14/2017,Medical Condition,Heart,cardiac arrest
+Allen Davenport,5/1/1957,Male,White,59,B.B. Rayburn Correctional Center - DOC,8/20/1993,Convicted,Medical Facility,Yes,8651,4/27/2017,Medical Condition,Lungs,asthma
+Benjamin Rogers,3/29/1959,Male,Black,57,B.B. Rayburn Correctional Center - DOC,2/14/2012,Convicted,Medical Facility,Yes,1860,3/19/2017,Medical Condition,Heart,heart attack
+Billy Brown,10/20/1946,Male,White,71,B.B. Rayburn Correctional Center - DOC,7/12/1994,Convicted,Medical Facility,Yes,8520,11/8/2017,Medical Condition,Sepsis/Septic Shock,Sepsis Secondary to Pneumonia and Myocarditis
+Wayne Troia,5/18/1958,Male,White,59,B.B. Rayburn Correctional Center - DOC,10/24/2006,Convicted,Cell,No,4037,11/12/2017,Suicide,Brain Injury,self inflicted head trauma
+Adolph Hicks,10/1/1953,Male,Black,64,David Wade Correctional Center - DOC,6/2/1983,Convicted,Medical Facility,No,12598,11/28/2017,Medical Condition,Cancer,Cancer
+Anthony Evans,10/14/1957,Male,Black,59,David Wade Correctional Center - DOC,6/15/2012,Convicted,Medical Facility,No,1887,8/15/2017,Medical Condition,Heart,cardiac arrest
+Darrell Ballard,9/15/1965,Male,Black,51,David Wade Correctional Center - DOC,9/1/1998,Convicted,Medical Facility,No,6825,5/9/2017,Medical Condition,Cancer,cancer
+Joe Hawthorne,6/24/1951,Male,White,66,David Wade Correctional Center - DOC,10/10/2008,Convicted,Medical Facility,No,3284,10/7/2017,Medical Condition,Cancer,Pulmonary Arrest secondary to advanced Lung Cancer
+Eddie Burkhalter,7/30/1940,Male,Black,77,Dixon Correctional Institute - DOC,10/18/1974,Convicted,Medical Facility,Yes,15689,10/1/2017,Medical Condition,Cancer,respiratory arrest secondary to lung cancer
+Gregory Riley,4/26/1966,Male,Black,50,Dixon Correctional Institute - DOC,4/30/1999,Convicted,Medical Facility,Yes,6551,4/6/2017,Medical Condition,Cancer,cancer
+Godfrey Edinburgh,12/6/1959,Male,Black,57,Dixon Correctional Institute - DOC,8/4/1992,Convicted,Medical Facility,No,9022,4/17/2017,Medical Condition,Cancer,cancer
+Oleander Edwards,5/21/1960,Male,Black,57,Dixon Correctional Institute - DOC,10/19/2009,Convicted,Medical Facility,Yes,2842,7/31/2017,Medical Condition,Cancer,cancer
+Robert Maize,11/22/1943,Male,Black,73,Dixon Correctional Institute - DOC,5/6/2002,Convicted,Medical Facility,Yes,5468,4/25/2017,Medical Condition,Cancer,cancer
+Ronald Fontenot,12/28/1946,Male,White,70,Dixon Correctional Institute - DOC,3/8/2016,Convicted,Medical Facility,Yes,617,11/15/2017,Medical Condition,Heart,heart attack
+Stephen Peavoy,12/12/1959,Male,White,57,Dixon Correctional Institute - DOC,1/21/2015,Convicted,Medical Facility,Yes,867,6/6/2017,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Thomas Mason,1/8/1952,Male,White,65,Dixon Correctional Institute - DOC,6/4/2012,Convicted,Medical Facility,Yes,1982,11/7/2017,Medical Condition,Lungs,Respitory arrest due to Pneumonia with Empyema
+Willie Rhodes,12/14/1952,Male,Black,64,Dixon Correctional Institute - DOC,9/4/2013,Convicted,Medical Facility,Yes,1536,11/18/2017,Medical Condition,Lungs,empyema
+Alvin Dixon,8/9/1978,Male,Black,39,East Feliciana Parish Work Release,3/25/2007,Convicted,Work,No,3819,9/7/2017,Suicide,Violence,Blunt force trauma
+Deshawn Harris,7/24/1981,Male,Black,36,Elayn Hunt Correctional Center - DOC,1/20/2015,Convicted,Medical Facility,Yes,996,10/12/2017,Medical Condition,Heart,heart attack
+Troy Robinson,8/28/1976,Male,Black,41,Elayn Hunt Correctional Center - DOC,10/5/1992,Convicted,Medical Facility,No,9189,12/2/2017,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Albert Farrar,1/23/1958,Male,Black,59,Elayn Hunt Correctional Center - DOC,5/18/1987,Convicted,Medical Facility,No,11184,12/30/2017,Medical Condition,Lungs,shock syndrome with hypertension respiratory failure
+Albert Meadows,3/16/1941,Male,White,76,Elayn Hunt Correctional Center - DOC,12/26/1984,Convicted,Medical Facility,No,12009,11/12/2017,Medical Condition,Heart,heart attack
+Anthony White,11/5/1953,Male,Black,63,Elayn Hunt Correctional Center - DOC,12/1/1981,Convicted,Medical Facility,No,12887,3/14/2017,Medical Condition,Heart,congestive heart failure
+Bruce Gill,1/28/1956,Male,White,60,Elayn Hunt Correctional Center - DOC,6/2/2010,Convicted,Medical Facility,No,2414,1/10/2017,Medical Condition,AIDS,AIDS
+Byron Gross,6/8/1963,Male,Black,53,Elayn Hunt Correctional Center - DOC,4/5/2016,Convicted,Cell,No,375,4/15/2017,Medical Condition,Cancer,cancer
+Carl Marshall,2/12/1959,Male,White,58,Elayn Hunt Correctional Center - DOC,2/21/1994,Convicted,Cell,No,8634,10/12/2017,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Charles Fulmer,7/2/1948,Male,White,68,Elayn Hunt Correctional Center - DOC,10/24/1967,Convicted,Medical Facility,No,18031,3/6/2017,Medical Condition,Cancer,cancer
+Christopher Hudson,6/17/1965,Male,Black,52,Elayn Hunt Correctional Center - DOC,6/19/2000,Convicted,Medical Facility,No,6319,10/7/2017,Medical Condition,Cancer,cancer
+Christopher Jones,6/12/1962,Male,Black,54,Elayn Hunt Correctional Center - DOC,7/21/2009,Convicted,Medical Facility,No,2762,2/11/2017,Medical Condition,Heart,Cardiac Arrest
+Darrell Gertenschologer,11/26/1938,Male,White,79,Elayn Hunt Correctional Center - DOC,1/28/1980,Convicted,Cell,No,13846,12/25/2017,Medical Condition,Cancer,cancer
+David Todd,7/16/1961,Male,White,55,Elayn Hunt Correctional Center - DOC,4/19/1983,Convicted,Medical Facility,No,12431,5/1/2017,Medical Condition,Cancer,cancer
+Delbert Husser,1/7/1965,Male,White,52,Elayn Hunt Correctional Center - DOC,10/19/2004,Convicted,Medical Facility,No,4609,6/2/2017,Medical Condition,Heart & Organ Failure,cardiac arrest with multiple organ failure
+Dennis Washington,2/16/1947,Male,Black,70,Elayn Hunt Correctional Center - DOC,3/17/1977,Convicted,Medical Facility,No,14751,8/5/2017,Medical Condition,Cancer,lung and brain cancer
+Donald Bock,7/24/1957,Male,White,59,Elayn Hunt Correctional Center - DOC,1/23/2009,Convicted,Medical Facility,No,2980,3/22/2017,Medical Condition,AIDS,AIDS
+Eugene Wright,6/20/1949,Male,Black,68,Elayn Hunt Correctional Center - DOC,4/24/1975,Convicted,Medical Facility,Yes,15447,8/8/2017,Medical Condition,Cancer,cancer
+George Arkansas,5/28/1960,Male,Black,56,Elayn Hunt Correctional Center - DOC,2/18/2009,Convicted,Cell,No,2946,3/14/2017,Medical Condition,Cancer,cancer
+James Rollins,2/24/1944,Male,Black,73,Elayn Hunt Correctional Center - DOC,1/10/1972,Convicted,Medical Facility,No,16515,3/29/2017,Medical Condition,Cancer,cancer
+Joseph Foster,5/22/1952,Male,White,64,Elayn Hunt Correctional Center - DOC,9/11/1992,Convicted,Medical Facility,No,9014,5/17/2017,Medical Condition,Cancer,cancer
+Joseph Rusk,6/24/1982,Male,White,34,Elayn Hunt Correctional Center - DOC,10/23/2013,Convicted,Medical Facility,Yes,1235,3/11/2017,Medical Condition,Cancer,cancer
+Kelly Lee,4/16/1968,Male,White,49,Elayn Hunt Correctional Center - DOC,1/18/1990,Convicted,Medical Facility,Yes,9966,5/2/2017,Medical Condition,Heart & Lungs,cardio pulmonary
+Larry Milton,5/1/1954,Male,Black,63,Elayn Hunt Correctional Center - DOC,8/8/1994,Convicted,Medical Facility,No,8480,10/26/2017,Medical Condition,Lungs,pulmonary edema
+Leonard Mcguire,1/27/1954,Male,Black,63,Elayn Hunt Correctional Center - DOC,5/17/2011,Convicted,Medical Facility,No,2219,6/13/2017,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Lloyd Clabaugh,4/9/1962,Male,White,55,Elayn Hunt Correctional Center - DOC,2/27/2012,Convicted,Cell,No,1897,5/8/2017,Medical Condition,Cancer,cancer
+Michael Hart,6/10/1953,Male,Black,63,Elayn Hunt Correctional Center - DOC,8/20/2008,Convicted,Cell,No,3212,6/6/2017,Medical Condition,Heart,cardiac arrest-metabolic acidosis
+Michael Rushing,8/5/1964,Male,White,53,Elayn Hunt Correctional Center - DOC,10/6/2014,Convicted,Cell,No,1171,12/20/2017,Medical Condition,Kidney/Liver,liver disease
+Morris Landor,6/28/1948,Male,Black,69,Elayn Hunt Correctional Center - DOC,5/5/2005,Convicted,Cell,No,4459,7/20/2017,Medical Condition,Cancer,cancer
+Paul Crow,10/22/1985,Male,Black,31,Elayn Hunt Correctional Center - DOC,9/8/2011,Convicted,Medical Facility,No,2030,3/30/2017,Medical Condition,Heart,cardiac arrest
+Paul Dorsey,2/17/1933,Male,White,84,Elayn Hunt Correctional Center - DOC,4/7/2016,Convicted,Medical Facility,No,338,3/11/2017,Medical Condition,Heart,heart attack
+Richard Hunter,9/1/1953,Male,Black,63,Elayn Hunt Correctional Center - DOC,11/13/2013,Convicted,Medical Facility,No,1175,1/31/2017,Medical Condition,Heart & Lungs,mild cardiomegaly and pulmonary edema
+Robert Gaston,9/10/1948,Male,Black,69,Elayn Hunt Correctional Center - DOC,6/3/1981,Convicted,Medical Facility,Yes,13258,9/20/2017,Medical Condition,Cancer,cancer
+Robert Johnson,10/23/1961,Male,Black,56,Elayn Hunt Correctional Center - DOC,3/5/2007,Convicted,Medical Facility,No,3945,12/22/2017,Medical Condition,Heart,cardiac arrest
+Robert Kingston,8/3/1946,Male,Black,70,Elayn Hunt Correctional Center - DOC,4/17/1989,Convicted,Medical Facility,No,10295,6/24/2017,Medical Condition,Heart & Lungs,cardiopulmonary failure
+Ronald Johnson,8/29/1958,Male,Black,59,Elayn Hunt Correctional Center - DOC,4/12/2016,Convicted,Cell,Yes,563,10/27/2017,Medical Condition,Lungs,pneumonia
+Russell Joubert,7/3/1953,Male,White,64,Elayn Hunt Correctional Center - DOC,11/3/2003,Convicted,Medical Facility,Yes,5120,11/9/2017,Medical Condition,Heart & Lungs,cardiopulmonary arrest to pneumonia
+Steve Robert,8/8/1955,Male,Black,61,Elayn Hunt Correctional Center - DOC,7/29/2009,Convicted,Medical Facility,No,2767,2/24/2017,Medical Condition,Heart,cardiac arrest
+William Plaisance,8/11/1951,Male,White,65,Elayn Hunt Correctional Center - DOC,11/10/1998,Convicted,Medical Facility,No,6698,3/13/2017,Medical Condition,Heart,sudden cardiac arrest
+Wilford Ambrose,9/11/1954,Male,Black,62,Elayn Hunt Correctional Center - DOC,3/31/2016,Convicted,Medical Facility,No,453,6/27/2017,Medical Condition,Cancer,cardiac arrest- cancer
+Calvin Bailey,9/20/1960,Male,Black,56,Lafourche Parish Transitional Work Program,8/1/2016,Convicted,Cell,Yes,307,6/4/2017,Medical Condition,Heart,heart attack
+Debra Williams,12/4/1953,Female,Black,63,Lousiana Correctional Institute for Women - DOC,7/20/2016,Convicted,Medical Facility,Yes,229,3/6/2017,Medical Condition,Kidney/Liver,liver disease
+Judith Walters,1/30/1953,Male,White,64,Lousiana Correctional Institute for Women - DOC,2/10/1987,Convicted,Medical Facility,No,11187,9/27/2017,Medical Condition,Kidney/Liver,liver disease
+Lorna Langlinias,11/9/1944,Female,White,72,Lousiana Correctional Institute for Women - DOC,1/22/1991,Convicted,Medical Facility,No,9697,8/10/2017,Medical Condition,Cancer,liver failure secondary to small cell lung cancer
+Mary Turner,8/19/1950,Female,Black,67,Lousiana Correctional Institute for Women - DOC,4/18/1979,Convicted,Medical Facility,No,14127,12/21/2017,Medical Condition,Cancer,cancer
+Rosetta Jones,1/30/1943,Female,White,74,Lousiana Correctional Institute for Women - DOC,12/4/1995,Convicted,Medical Facility,No,7923,8/13/2017,Medical Condition,Heart,heart attack
+Zenola Williams,8/28/1953,Female,Black,63,Lousiana Correctional Institute for Women - DOC,10/9/2015,Convicted,Medical Facility,Yes,562,4/23/2017,Medical Condition,Cancer,cancer
+Adam Billiot,11/2/1966,Male,White,50,Louisiana State Penitentiary (Angola Prison),2/25/1999,Convicted,Cell,No,6603,3/25/2017,Violence,Assault,multiple blunt force injuries
+Alan Lucas,9/2/1958,Male,White,58,Louisiana State Penitentiary (Angola Prison),3/4/1985,Convicted,Medical Facility,Yes,11662,2/6/2017,Medical Condition,Lungs,pneumonia and cystitis
+Alton Batiste,7/4/1945,Male,Black,72,Louisiana State Penitentiary (Angola Prison),6/27/1977,Convicted,Medical Facility,No,14741,11/5/2017,Medical Condition,Cancer,cancer
+Anthony Cantrelle,6/3/1943,Male,White,74,Louisiana State Penitentiary (Angola Prison),3/24/2008,Convicted,Medical Facility,No,3512,11/4/2017,Medical Condition,Lungs,"Acute Hypoxemic Respiratory Failure, Adult Respiratory Distress Syndrome"
+Brandon Lizotte,2/27/1982,Male,White,35,Louisiana State Penitentiary (Angola Prison),11/22/2006,Convicted,Transit,No,3950,9/15/2017,Accident,Gunshot,gunshot wound
+Christopher Browder,8/22/1984,Male,Black,32,Louisiana State Penitentiary (Angola Prison),5/10/2011,Convicted,Medical Facility,Yes,2109,2/16/2017,Medical Condition,Heart,heart disease
+Clarence Randolph,3/27/1944,Male,Black,73,Louisiana State Penitentiary (Angola Prison),6/1/2004,Convicted,Medical Facility,No,4919,11/19/2017,Medical Condition,Kidney/Liver,end stage renal failure
+Clydell Conway,12/28/1984,Male,Black,32,Louisiana State Penitentiary (Angola Prison),1/10/2003,Convicted,Cell,No,5124,1/20/2017,Suicide,Hanging,asphyxia due to hanging
+Curt Thornton,2/23/1981,Male,White,36,Louisiana State Penitentiary (Angola Prison),2/15/2017,Convicted,Medical Facility,No,141,7/6/2017,Medical Condition,AIDS,AIDS
+Curtis Kyles,8/26/1959,Male,Black,58,Louisiana State Penitentiary (Angola Prison),9/29/2017,Convicted,Medical Facility,No,0,9/29/2017,Medical Condition,Heart & Lungs,respiratory/heart failure
+Curtis Tullos,4/28/1956,Male,Black,61,Louisiana State Penitentiary (Angola Prison),8/15/1983,Convicted,Medical Facility,No,12535,12/9/2017,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Dale Albert,2/22/1948,Male,White,69,Louisiana State Penitentiary (Angola Prison),8/15/1980,Convicted,Medical Facility,Yes,13509,8/10/2017,Medical Condition,Brain,massive inter cranial hemorphage
+Darrow Bowman,5/25/1945,Male,Black,71,Louisiana State Penitentiary (Angola Prison),11/29/1963,Convicted,Medical Facility,Yes,19432,2/10/2017,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Darryl Martin,8/1/1957,Male,Black,59,Louisiana State Penitentiary (Angola Prison),12/17/1985,Convicted,Cell,No,11363,1/26/2017,Medical Condition,Heart,heart attack/morbid obesity
+Darryl Thornton,1/18/1960,Male,Black,57,Louisiana State Penitentiary (Angola Prison),11/9/1981,Convicted,Medical Facility,Yes,13067,8/19/2017,Medical Condition,Heart,heart attack
+Donald Kendig,9/2/1936,Male,White,80,Louisiana State Penitentiary (Angola Prison),6/15/1983,Convicted,Medical Facility,No,12282,1/29/2017,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Douglas Shoemake,4/18/1961,Male,White,55,Louisiana State Penitentiary (Angola Prison),5/11/1998,Convicted,Medical Facility,No,6861,2/21/2017,Medical Condition,Cancer,cancer
+Eddie Mitchell,12/31/1944,Male,Black,72,Louisiana State Penitentiary (Angola Prison),12/25/1997,Convicted,Medical Facility,No,7257,11/7/2017,Medical Condition,Heart & Lungs & Cancer,cardiopulmonary arrest stage IV metastic cancer
+Edward Giovanni,12/10/1952,Male,White,64,Louisiana State Penitentiary (Angola Prison),11/14/1980,Convicted,Medical Facility,Yes,13238,2/11/2017,Medical Condition,Heart,cardiac arrest
+Edward Payne,1/11/1965,Male,Black,52,Louisiana State Penitentiary (Angola Prison),4/2/1993,Convicted,Medical Facility,Yes,8878,7/23/2017,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Eric Bello,3/29/1972,Male,Black,45,Louisiana State Penitentiary (Angola Prison),5/30/2013,Convicted,Medical Facility,No,1495,7/3/2017,Medical Condition,Brain,intracranial bleed
+Eric Laymon,4/4/1976,Male,Black,40,Louisiana State Penitentiary (Angola Prison),6/7/1996,Convicted,Cell,No,7586,3/15/2017,Medical Condition,Kidney/Liver,acute renal failure
+Ernest Crook,11/1/1950,Male,Black,66,Louisiana State Penitentiary (Angola Prison),2/17/1987,Convicted,Medical Facility,No,11018,4/18/2017,Medical Condition,Cancer,pancreatic cancer
+Ferris Gray,5/22/1945,Male,White,71,Louisiana State Penitentiary (Angola Prison),6/24/1974,Convicted,Medical Facility,Yes,15555,1/24/2017,Medical Condition,Lungs,COPD
+Franklin Blackwell,12/5/1934,Male,White,82,Louisiana State Penitentiary (Angola Prison),4/21/2011,Convicted,Medical Facility,No,2250,6/18/2017,Medical Condition,Heart,heart attack
+Howard Ray,10/25/1954,Male,Black,62,Louisiana State Penitentiary (Angola Prison),6/15/2004,Convicted,Medical Facility,No,4864,10/9/2017,Medical Condition,Heart,heart attack
+James Burns,9/14/1959,Male,Black,58,Louisiana State Penitentiary (Angola Prison),2/7/1990,Convicted,Medical Facility,No,10172,12/14/2017,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+James Cooley,10/14/1943,Male,Black,73,Louisiana State Penitentiary (Angola Prison),5/24/1972,Convicted,Medical Facility,Yes,16366,3/15/2017,Medical Condition,Heart,hypertensive and atherosclerotic cardiovascular
+James Johnson,2/18/1964,Male,Black,53,Louisiana State Penitentiary (Angola Prison),10/31/2007,Convicted,Medical Facility,Yes,3562,8/1/2017,Medical Condition,Cancer,lung cancer with METS
+Joe Oliver,12/17/1955,Male,White,61,Louisiana State Penitentiary (Angola Prison),12/19/1983,Convicted,Medical Facility,No,12405,12/5/2017,Medical Condition,Heart & Lungs,cardiorespiratory arrest
+John Allen,2/9/1966,Male,Black,51,Louisiana State Penitentiary (Angola Prison),10/25/2000,Convicted,Cell,Yes,6042,5/11/2017,Medical Condition,Cancer,cancer
+Jonathan Citizen,9/6/1979,Male,Black,37,Louisiana State Penitentiary (Angola Prison),7/8/2011,Convicted,Cell,Yes,2166,6/12/2017,Medical Condition,Lungs,respiratory arrest
+Joseph Guillory,10/25/1929,Male,Black,87,Louisiana State Penitentiary (Angola Prison),11/22/1982,Convicted,Medical Facility,No,12729,9/28/2017,Medical Condition,Cancer,metastatic hepatocellular carcinoma
+Keith Leblanc,12/22/1981,Male,Black,35,Louisiana State Penitentiary (Angola Prison),3/31/2003,Convicted,Cell,No,5358,11/30/2017,Medical Condition,Heart,heart attack
+Larry Jones,8/8/1958,Male,White,59,Louisiana State Penitentiary (Angola Prison),7/23/2007,Convicted,Medical Facility,No,3813,12/30/2017,Medical Condition,Heart,cardiac arrest
+Lee Lane,8/19/1938,Male,Black,79,Louisiana State Penitentiary (Angola Prison),9/14/1962,Convicted,Medical Facility,No,20109,10/4/2017,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Lonnie Fortner,9/11/1973,Male,Black,43,Louisiana State Penitentiary (Angola Prison),6/22/2015,Convicted,Medical Facility,No,649,4/1/2017,Accident,Heart,"""accidental injury to self"" cardiac arrest"
+Melvin Ford,8/16/1954,Male,White,62,Louisiana State Penitentiary (Angola Prison),1/11/1978,Convicted,Medical Facility,Yes,14268,2/3/2017,Medical Condition,Lungs,pulmonary embolus
+Michael Rowe,8/19/1957,Male,Black,59,Louisiana State Penitentiary (Angola Prison),9/10/1982,Convicted,Cell,Yes,12576,2/14/2017,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+Michael Straughter,8/16/1960,Male,Black,57,Louisiana State Penitentiary (Angola Prison),10/12/1992,Convicted,Medical Facility,No,9151,11/1/2017,Medical Condition,Cancer,cancer
+Richard Lebeau,12/8/1967,Male,Black,49,Louisiana State Penitentiary (Angola Prison),5/28/2010,Convicted,Medical Facility,Yes,2505,4/6/2017,Medical Condition,AIDS,AIDS
+Russell Rogers,7/28/1940,Male,White,76,Louisiana State Penitentiary (Angola Prison),10/20/2011,Convicted,Medical Facility,No,2087,7/7/2017,Medical Condition,Heart,atherosclerotic coronary artery disease
+Samuel Starks,7/12/1934,Male,Black,83,Louisiana State Penitentiary (Angola Prison),10/23/1965,Convicted,Medical Facility,Yes,19061,12/30/2017,Medical Condition,Lungs,pulmonary fibrosis
+Shannon Hurd,2/20/1975,Male,Black,42,Louisiana State Penitentiary (Angola Prison),7/2/2004,Convicted,Medical Facility,Yes,4629,3/5/2017,Medical Condition,Heart,cardiac arrest
+Timothy Dangerfield,12/4/1980,Male,Black,36,Louisiana State Penitentiary (Angola Prison),11/9/2015,Convicted,Cell,No,749,11/27/2017,Suicide,Hanging,asphyxiation
+Tony Jackson,5/8/1982,Male,Black,35,Louisiana State Penitentiary (Angola Prison),5/29/2012,Convicted,Cell,No,1890,8/1/2017,Suicide,Hanging,asphyxiation
+Tracy Harris,9/8/1964,Male,Black,53,Louisiana State Penitentiary (Angola Prison),10/31/2007,Convicted,Medical Facility,No,3603,9/11/2017,Medical Condition,AIDS,AIDS
+Walter Chapman,3/21/1954,Male,Black,63,Louisiana State Penitentiary (Angola Prison),10/21/1977,Convicted,Medical Facility,No,14549,8/21/2017,Medical Condition,Heart,Heart attack
+Wayne Fritz,1/27/1954,Male,White,63,Louisiana State Penitentiary (Angola Prison),7/9/1999,Convicted,Medical Facility,No,6634,9/6/2017,Medical Condition,Lungs,respiratory failure
+William Richardson,1/18/1948,Male,Black,69,Louisiana State Penitentiary (Angola Prison),5/6/1991,Convicted,Medical Facility,No,9681,11/6/2017,Medical Condition,Heart,heart attack
+Willie Brunner,10/31/1954,Male,Black,62,Louisiana State Penitentiary (Angola Prison),12/10/1984,Convicted,Medical Facility,No,11822,4/23/2017,Medical Condition,Lungs & Liver,sorosis and respiratory failure
+Willie Thibeaux,7/26/1957,Male,Black,59,Louisiana State Penitentiary (Angola Prison),7/29/1998,Convicted,Medical Facility,No,6848,4/28/2017,Medical Condition,Brain,inter cranial hemmorhage
+Harold Jones,8/16/1974,Male,Black,42,Orleans Parish Prison & TDC,10/11/2006,Convicted,Medical Facility,No,3952,8/6/2017,Medical Condition,Heart & Lungs,cardiopulmonary arrest
+David Johnson,10/1/1975,Male,White,41,Riverbend Detention Center,10/17/2012,Convicted,Medical Facility,No,1794,9/15/2017,Medical Condition,Heart,"cardiac arrest, hypoxia"
+Jamin Muscarello,10/3/1977,Female,White,40,Saint Bernard Parish Jail,7/20/1999,Convicted,Medical Facility,No,6694,11/16/2017,Medical Condition,Heart,cardiac arrest
+Kenneth Whittington,8/19/1971,Male,White,45,Vernon Parish Correctional Facility,1/23/2013,Convicted,Medical Facility,No,1523,3/26/2017,Institution Redacted,Illness,Illness- not listed
+Jeffery Godfrey,11/2/1983,Male,Black,33,Webster Parish Jail,6/15/2016,Convicted,Medical Facility,No,291,4/2/2017,Institution Redacted,Illness,Illness
+Christopher Lang,1/2/1978,Male,Hispanic,39,Winn Correctional Center,9/1/2017,Convicted,Cell,No,112,12/22/2017,Institution Redacted,Illness,illness
+Samuel Williams,7/10/1982,Male,Black,36,Lafourche Parish Detention Center,9/15/2018,Pretrial,Segregation,No,22,10/7/2018,Suicide,Hanging,Suicide by hanging
+Raymond Taylor,2/17/1975,Male,White,42,Claiborne Parish Detention Center,2/11/2017,Pretrial,Medical Facility,Yes,175,8/5/2017,Institution Redacted,Illness,illness
+James White,12/5/1964,Male,Black,52,Claiborne Parish Detention Center,5/19/2017,Parole Hold,Medical Facility,No,35,6/23/2017,Medical Condition,AIDS,AIDS
+Ken McCoy,9/10/1967,Male,Black,49,Catahoula Correctional Center - LaSalle,7/29/2016,Convicted,Transit,No,98,11/4/2016,Medical Condition,Heart & Lungs,hypertensive atherosclerotic cardiovascular disorder.
+Richard Craig,6/20/1991,Male,White,24,Jefferson Davis Parish Jail,12/30/2015,Pretrial,Segregation,No,3,1/2/2016,Suicide,Hanging,Suicide by hanging
+Darius Craig,1/7/1993,Male,Black,26,West Baton Rouge Parish Detention Center,7/5/2019,Convicted,Cell,No,52,8/26/2019,Suicide,Hanging,Hanging
+Ernie Hyde,,Male,White,,Tangipahoa Parish Prison,11/20/2020,Convicted,Medical Facility,No,0,11/20/2020,Medical Condition,Heart & Lungs,hypertensive and atherosclerotic calcification
+Prinston Bowman,,Male,Black,,Tangipahoa Parish Prison,1/15/2014,Parole Hold,Transit,No,226,8/29/2014,Institution Redacted,Illness,Redacted but states illness
+Keith Joseph,,Male,Black,,Tangipahoa Parish Prison,2/19/2014,Convicted,Unknown,No,20,3/11/2014,Institution Redacted,Illness,Redacted but states illness.
+Bobby Earl,,Male,Black,,Tangipahoa Parish Prison,8/1/2012,Convicted,Work,No,1032,5/30/2015,Accident,Drowned,Drowned when boat collapsed in Mississippi River.
+Brady Williams,,Male,Black,,Tangipahoa Parish Prison,1/7/2015,Parole Hold,Cell,No,625,9/23/2016,Institution Redacted,Illness,Redacted but states illness.
+Tommy J. Smith,,Male,White,,Tangipahoa Parish Prison,1/30/2017,Parole Hold,Cell,No,0,1/30/2017,Violence,Assault,Beaten to death by other inmates.
+Peggy Simoneaux,,Female,White,,Tangipahoa Parish Prison,4/25/2018,Pretrial,Cell,No,0,4/25/2018,Suicide,Hanging,Found hanging in her cell.
+Charles Williams,,Male,Black,,Tangipahoa Parish Prison,1/29/2019,Pretrial,Cell,No,35,3/5/2019,Institution Redacted,Overdose/Intoxication,Redacted box that states alcohol/drug injury.
+Nancy M. Bourgeois,12/24/1972,Female,White,41,Terrebonne Parish Jail,12/5/2014,Pretrial,Unknown,Yes,5,12/10/2014,Institution Redacted,Illness,Redacted but states illness.
+Thibodeaux Junis,,Male,White,,Iberia Parish Jail,9/26/2013,Pretrial,Unknown,No,229,5/13/2014,Accident,Prior Injuries,Died of injuries sustained from a car accident prior to incarceration
+Daquentin Thompson,,Male,Black,,Iberia Parish Jail,9/11/2014,Pretrial,Segregation,No,45,10/26/2014,Suicide,Hanging,Suicide by hanging
+Richard Lumpkin,,Male,Black,,Iberia Parish Jail,10/14/2015,Pretrial,Medical Facility,No,216,5/17/2016,Medical Condition,Heart & Seizure,Hypertensive Cardiac Disease/Terminal Seizure.
+Jason Hebert,,Male,White,,Iberia Parish Jail,9/5/2016,Pretrial,Segregation,No,8,9/13/2016,Medical Condition,Heart & Lungs,Hypertensive atherosclerotic cardiovascular disease
+Alan Jackson,1/1/1969,Male,White,40,St. Tammany Parish Jail,10/7/2009,Convicted,Segregation,No,42,11/18/2009,Suicide,Hanging,Hanging
+Bernard Tusa,10/20/1953,Male,White,58,St. Tammany Parish Jail,1/20/2012,Pretrial,Cell,Yes,273,10/19/2012,Medical Condition,Heart,Hypertensive atherosclerotic disease
+Treshon Couson,1/21/1991,Female,Black,22,St. Tammany Parish Jail,6/28/2013,Pretrial,Medical Facility,No,0,6/28/2013,Suicide,Hanging,Hanging
+Antoine Tobias Jr.,12/11/1972,Male,Black,40,St. Tammany Parish Jail,1/23/2013,Pretrial,Medical Facility,Yes,0,1/23/2013,Medical Condition,Heart & Kidney/Liver,End stage cirrhosis & congestive heart failure
+Joshua Adams,6/5/1988,Male,Black,25,City of Kenner Jail,1/4/2014,Pretrial,Temp Holding,No,0,1/4/2014,Drugs,Overdose/Intoxication,Overdoes: cocaine and benzoylecgonine.
+Linzie Scott,8/17/1954,Male,Black,65,Washington Parish Jail,8/9/2019,Parole Hold,Medical Facility,No,75,10/23/2019,Medical Condition,Lungs,Acute pulmonary embolism
+Roger Hale,1/1/1959,Male,White,61,Ouachita Correctional Center,1/25/2020,Pretrial,Unknown,No,20,2/14/2020,Medical Condition,Heart,suspected heart attack
+Blake Powell,1/1/1993,Male,White,27,Ouachita Correctional Center,11/9/2019,Convicted,Unknown,No,126,3/14/2020,Suicide,Hanging,Suicide by hanging
+Thomas Kinard,1/1/1986,Male,White,34,Ouachita Parish Transitional Work Program,5/19/2019,Convicted,Unknown,No,413,7/5/2020,Drugs,Overdose/Intoxication,Probable synthetic cannabinoid abuse
+Kerry Ashley,1/1/1962,Male,White,58,Ouachita Correctional Center,8/25/2020,Pretrial,Unknown,No,3,8/28/2020,Drugs,Overdose/Intoxication,Methamphetamine intoxication.
+Zinna Barber,1/1/1965,Female,Black,55,Ouachita Correctional Center,9/8/2020,Pretrial,Unknown,No,3,9/11/2020,Medical Condition,Heart & Lungs,Congestive heart failure due to hypertensive arteriosclerotic cardiovascular disease
+Anthony Samuel,3/23/1970,Male,Black,49,Caddo Parish Correctional Center,8/15/2019,Pretrial,Unknown,Yes,92,11/15/2019,Medical Condition,Blood,Hemoperitoneum
+Ronald Tullier,1/26/1942,Male,White,77,Elayn Hunt Correctional Center - DOC,10/21/2019,Convicted,Unknown,No,66,12/26/2019,Medical Condition,Heart & Lungs,Cardio respiratory failure secondary to cardiac arrest
+Kenneth George,1/1/1988,Male,Unknown,30,Webster Parish Jail,,Convicted,Work,No,,10/18/2018,Accident,Fall,Fell from the bed of a truck traveling down US highway 80.
+Tammy Eason,1/1/1965,Female,Black,54,Webster Parish Jail,,Pretrial,Cell,Yes,,7/25/2019,Medical Condition,Kidney/Liver,Liver Failure
+Jordan Bachman,1/1/2002,Male,White,17,Ware Youth Center - DOC Youth,12/26/2018,Pretrial,Segregation,No,43,2/7/2019,Suicide,Hanging,Suicide by hanging
+Solan Peterson,1/20/2006,Male,White,13,Ware Youth Center - DOC Youth,2/1/2019,Convicted,Segregation,No,9,2/10/2019,Suicide,Hanging,Suicide by hanging
+Unknown Youth,1/1/2001,Female,Unknown,16,Ware Youth Center - DOC Youth,,Pretrial,Cell,No,,3/10/2017,Suicide,Hanging,Suicide by hanging
+Andre Smith,1/25/1969,Male,Black,50,Louisiana State Penitentiary (Angola Prison),3/26/1993,Convicted,Medical Facility,No,9593,7/1/2019,Medical Condition,Heart,Cardiac arrest
+Edward Barthel,10/23/1974,Male,White,39,Jefferson Parish Correctional Center,7/12/2013,Pretrial,Medical Facility,Yes,200,1/28/2014,Medical Condition,Cancer,Metastasized rectal/testicular cancer
+Sammie Townsend,3/5/1948,Male,Black,66,Jefferson Parish Correctional Center,3/19/2014,Pretrial,Medical Facility,Yes,102,6/29/2014,Medical Condition,Sepsis/Septic Shock,uro sepsis due to candida glabrata
+Robert Kyle,5/2/1935,Male,White,80,Jefferson Parish Correctional Center,8/5/2013,Pretrial,Medical Facility,No,719,7/25/2015,Medical Condition,Heart,altheroslcerotic cardicascular disease
+Lori Lesaicherre,6/28/1963,Female,White,52,Jefferson Parish Correctional Center,3/21/2015,Pretrial,Medical Facility,Yes,183,9/20/2015,Medical Condition,Lungs,diffuse acute necrotizing necrosis
+Ronald Zeller,3/20/1969,Male,White,46,Jefferson Parish Correctional Center,9/27/2015,Pretrial,Medical Facility,Yes,49,11/15/2015,Medical Condition,Stomach/Intestine,ruptured gastric ulcer due to peptic ulcer disease
+William Fong,9/24/1948,Male,Other,66,Jefferson Parish Correctional Center,3/23/2015,Pretrial,Medical Facility,Yes,23,4/15/2015,Medical Condition,Heart,arteriosclerotic and hypertensive cardiovascular
+Dylan Guidry,9/26/1992,Male,White,24,Jefferson Parish Correctional Center,10/19/2016,Convicted,Medical Facility,Yes,39,11/27/2016,Medical Condition,Brain,brain aneurysm
+Jerome Bell,11/2/1966,Male,Black,50,Jefferson Parish Correctional Center,7/20/2017,Convicted,Cell,No,15,8/4/2017,Suicide,Hanging,asphyxia due to hanging
+Jatory Evans,4/21/1988,Male,Black,29,Jefferson Parish Correctional Center,11/9/2016,Pretrial,Cell,No,322,9/27/2017,Suicide,Hanging,asphyxia due to hanging
+Joshua Belcher,1/28/1985,Male,White,32,Jefferson Parish Correctional Center,8/7/2017,Pretrial,Cell,No,12,8/19/2017,Suicide,Hanging,asphyxia due to hanging
+Danielle Reed,6/11/1979,Female,White,37,Jefferson Parish Correctional Center,4/9/2017,Convicted,Medical Facility,Yes,1,4/10/2017,Medical Condition,Heart,cardiac arrhythmia due to cardiomegaly of hype
+Darius Struggs,11/12/1979,Male,Black,37,Jefferson Parish Correctional Center,8/8/2017,Pretrial,Medical Facility,No,70,10/17/2017,Medical Condition,Brain,Intracerebral hemorrhage
+Omar Perez-Rodriguez,4/9/1954,Male,White,63,Jefferson Parish Correctional Center,9/17/2017,Pretrial,Medical Facility,Yes,39,10/26/2017,Medical Condition,Sepsis/Septic Shock,sepsis due to intra-abdominal abscesses
+Brian Alexander,2/2/1969,Male,White,49,Jefferson Parish Correctional Center,2/1/2018,Pretrial,Cell,No,219,9/8/2018,Violence,Brain,hypoxic-ischemic encephalopathy
+Kenneth LeBlanc,12/7/1954,Male,White,63,Jefferson Parish Correctional Center,2/23/2017,Pretrial,Medical Facility,Yes,415,4/14/2018,Medical Condition,Heart,heart failure
+Willie Henry,10/20/1949,Male,Black,68,Jefferson Parish Correctional Center,8/27/2016,Pretrial,Medical Facility,Yes,553,3/3/2018,Medical Condition,Cancer,hepatocellular carcinoma
+Brittany Duriell,10/28/1989,Female,Black,29,Jefferson Parish Correctional Center,12/20/2018,Pretrial,Medical Facility,Yes,2,12/22/2018,Medical Condition,Heart,hypertensive cardiovascular disease
+Christopher Jordan,9/1/1970,Male,Black,48,Jefferson Parish Correctional Center,5/21/2019,Pretrial,Medical Facility,No,4,5/25/2019,Drugs,Brain & Drugs,acute myocardial infarction due to drugs
+Marshall Guillot,2/27/1976,Male,White,43,Jefferson Parish Correctional Center,5/26/2019,Pretrial,Cell,No,14,6/9/2019,Suicide,Unknown,hypoxic-ischemic encephalopathy
+Willie Fullilove,1/4/1959,Male,Black,60,Jefferson Parish Correctional Center,3/22/2019,Pretrial,Medical Facility,Yes,265,12/12/2019,Medical Condition,Heart,hypertensive cardiovascular disease
+Matthew Hall,12/22/1986,Male,Black,32,Jefferson Parish Correctional Center,12/9/2019,Pretrial,Medical Facility,No,4,12/13/2019,Drugs,Brain & Drugs,anoxic brain injury; heroin toxicity
+Nimali Henry,1/1/1995,Female,Black,19,Saint Bernard Parish Jail,3/22/2014,Pretrial,Segregation,Yes,10,4/1/2014,Medical Condition,Blood,thrombotic thrombocytopenic purpura
